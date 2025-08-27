@@ -1,0 +1,9 @@
+accounts.spotify.com	FALSE	/	TRUE	1783971381	__Host-device_id	AQAGPh_PJnZQT4blSeZ3L9Rloozlnor1aKGXokuSIaU5ovbR3ekRhsT4170nHDf2jXUUhtyxuljbzjb27ZC-fEJmZsHCXO3heug
+.spotify.com	TRUE	/	FALSE	1785188329	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+27+2025+18%3A38%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2Fuser%2Ffuovwy5mxe3zwvf15a9l9pqx4&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+.spotify.com	TRUE	/	FALSE	1788212330	_ga	GA1.1.510081971.1753652330
+.spotify.com	TRUE	/	FALSE	1788212330	_ga_BMC5VGR8YS	GS2.2.s1753652330$o1$g0$t1753652330$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1785188330	sp_adid	83ca0a5b-6762-439f-b22f-45157dfa81c2
+.spotify.com	TRUE	/	TRUE	1785188326	sp_t	4be4e7765d3e2c54b8bfc133bb3dd611
+.spotify.com	TRUE	/	FALSE	1788221059	_ga_ZWG1NSHWD8	GS2.1.s1753661059$o2$g0$t1753661059$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1785273970	sp_dc	AQAUfAG4LiqUEZ51XS-im8LbD-hl0OimyF0jASsK9_tgAqWhB_AJJn4G--L_lXMzPRSNKxkHGXYBx75TrmwCI1L2H_3eT4zafwA0ZqzVNJlwtxiCLcBct1MpR1zn9aLEZ7ZSNCJGPOKVaXDiNvL6hryczCyTxNo-XjfCNstlmsckIi625GYyhfVB__XiTBm8FYGxCew2XBewdQADdQ
+.spotify.com	TRUE	/	TRUE	1785273970	sp_key	a076911b-6606-476c-b89f-7b1321b128ac

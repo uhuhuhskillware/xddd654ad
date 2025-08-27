@@ -1,0 +1,12 @@
+accounts.spotify.com	FALSE	/	TRUE	1770128618	__Host-device_id	AQAfd0ZNAZp-f5lBJmqo4h5mAVMGSTv1xnjmH5vmegX9b9myjhUnFXRy15NESfwMHraQcq_rlc3YobPXSEW2xkyVB3Fb4SLO_zc
+.spotify.com	TRUE	/	TRUE	1767104642	sp_dc	AQBrEG6cm4xB4YaIItD6A-VUzokB4orWcVG-sTr4WcXvndiTM4xvOf6FRMpSPAdRAEF8uqbHY5gLGJ9HN2U0567Rw6o3hTmZWFzas2axBJ058v1-BhrFtsM6LlZG_Q3tsyuFYDPo8_ni0SQvF3kpgXiiP7Hg194mFIWaGA-BNJe9I-75AQkPvhEpDU38sBZWcw1UL3QVvsC5fbOUqjU
+.spotify.com	TRUE	/	TRUE	1767104642	sp_key	cdc76dc7-b8bf-49f2-9929-91eab0e55e7d
+.spotify.com	TRUE	/	FALSE	1768699232	OptanonAlertBoxClosed	2025-01-18T01:20:32.209Z
+.spotify.com	TRUE	/	TRUE	1771723262	sp_m	au
+.spotify.com	TRUE	/	FALSE	1771724349	_ga_BMC5VGR8YS	GS1.2.1737163208.1.1.1737164349.60.0.0
+.spotify.com	TRUE	/	FALSE	1771724350	_ga_ZWG1NSHWD8	GS1.1.1737163208.2.1.1737164350.0.0.0
+.spotify.com	TRUE	/	TRUE	1771242237	sp_t	7124341f-309b-48a8-8193-b084cf73df23
+.spotify.com	TRUE	/	FALSE	1783350094	OptanonConsent	isIABGlobal=false&datestamp=Mon+Jul+07+2025+01%3A01%3A34+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.2.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=AU%3BQLD
+.spotify.com	TRUE	/	FALSE	1786374094	_ga	GA1.1.94267426.1679692132
+.spotify.com	TRUE	/	FALSE	1786374106	_ga_C8KXF15P07	GS2.1.s1751814089$o1$g1$t1751814106$j43$l0$h0
+.spotify.com	TRUE	/	TRUE	1783350094	sp_adid	588f384a-a65c-43b4-9771-c9366c58e97e

@@ -1,0 +1,10 @@
+.spotify.com	TRUE	/	TRUE	1763140813	sp_m	br-pt
+accounts.spotify.com	FALSE	/	TRUE	1770056105	__Host-device_id	AQDjO9h8sEiOTbePn5oWYnqv8L35AGGtM59CTAGhDREJJrPAtEPrtQcG3lLsXGmqnTrBk97eFRRyrV3gIMrkQTdgI6x3CoSysgE
+.spotify.com	TRUE	/	TRUE	1754590514	sp_landing	https%3A%2F%2Fchallenge.spotify.com%2Fc%2Fe6d815a2-06d8-4647-8a74-1bc2e6ed30d1-5%2Fe34b2fb5-7e1b-49d7-9ba1-ac6b9fd444f8%2Femail
+.spotify.com	TRUE	/	TRUE	1754590514	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1770056138	sp_dc	AQDYI8BBK5nwJijHmRRwtaff4dYfXFDhMqqQS-FxEyrzPT0HvAqlfrXG17vLocmLqZ2uLLtlAAoIHKH7TuvkzNn2-afPRYgrpYXj81wK4zTg441WkAtILF51Wzu8tIMC-_PriJ_uC5CH5dCcSUPFrKlAwuZTnh47GEU9oBFJY-wfIGIHmqSEW7YTco7ieM271vD75OGQBdUgtt1gdw
+.spotify.com	TRUE	/	TRUE	1770056138	sp_key	5aae80a7-e703-4f4e-b88a-5b83f5d95feb
+.spotify.com	TRUE	/	TRUE	1759688302	sp_gaid	0088fc8e71f4183ea80d08f15e68fc09ad2f18d4e599391186b0de
+.spotify.com	TRUE	/	TRUE	1759688303	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1770056477	sp_t	fe7da42349c8a3131a953c20de377f44
+.accounts.spotify.com	TRUE	/	TRUE	1754572595	inapptestgroup
