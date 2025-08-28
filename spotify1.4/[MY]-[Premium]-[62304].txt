@@ -1,0 +1,14 @@
+community.spotify.com	FALSE	/	TRUE	1742263480	LithiumVisitor	~2NQfAr3NDimezgaFj~t19wwk8ClWs2j4sJZa9cOQqbypZc2wTjTjdKRwHpwyFFryCNWHijWb5eoIv6g1Xtyxpy-88wSPEff3AZvaGMZw..
+community.spotify.com	FALSE	/	TRUE	1742263481	VISITOR_BEACON	~21Qj8aruBzvvUfUp6~7CC5bvbN8scSeHG_GlFUEo4IrZLPhQZgk2vm9L5_DQ9ms5vsxTF5CjdKr45OtPUO9mE43pas-01a6BaPResP9g..
+accounts.spotify.com	FALSE	/	TRUE	1761043497	__Host-device_id	AQCUDGPFdpa7hUgVAIheVFiJxU2UERHxK8U6QCnpXx46g9ru1REzcyt7MEWBmyi_fG4w4Mx5uvg0onFhtYU90BBq9sEjbI0Pmc8
+.spotify.com	TRUE	/	TRUE	1742128516	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fmy-en%2Faccount%2Foverview%2F%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account
+.spotify.com	TRUE	/	TRUE	1742128516	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1747226116	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1776602115	sp_m	my-en
+.spotify.com	TRUE	/	FALSE	1773578596	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+15+2025+20%3A43%3A16+GMT%2B0800+(Malaysia+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+www.spotify.com	FALSE	/	TRUE	1742046194	__Host-sp_csrf_sid	c90d7069b64daf4ac2b90637fbdb015538090a6d983ec86d95fef60a5505f237
+.spotify.com	TRUE	/	TRUE	1742044403	sp_usid	039a6696-521a-47c4-86d9-2afeb1a32d7e
+accounts.spotify.com	FALSE	/	TRUE	1742046351	__Host-sp_csrf_sid	8d17958cd4f67671ff42d8f0e133307bfa3fb14016741989046d0ec2d8b1672a
+.spotify.com	TRUE	/	TRUE	1773578751	sp_dc	AQBMSlOC7FEUBnhettvVuIpdti135FSiE3KrSDAYPi1SMoXr24UPkhaD8x42kyPIOZcaX82aJg0TdHACuQtFuk1HUpgkmSAkSTFwpQLeYcySssKMHyi-XIpdyjL1LgngL6liUD_A7NHkc4n7O80AQAb-sIsEFcIAKuF95-K0DP289Ug5xfrcqYcaV0mSr7TuNVLrc94syud_jRMY0yU
+.spotify.com	TRUE	/	TRUE	1773578751	sp_key	b99b48d7-bbce-4a2e-b8ab-b75b6c9a020b
+.spotify.com	TRUE	/	TRUE	1773578762	sp_t	3a8e138acd46d324883f6af15b9e6530

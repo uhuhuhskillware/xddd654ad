@@ -1,0 +1,6 @@
+.spotify.com	TRUE	/	TRUE	13379501796521398	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D594e00dec27cd47cd6b7bbc4d9e9796c%26device%3Ddesktop
+accounts.spotify.com	FALSE	/	TRUE	13394967867952113	__Host-device_id	AQDxtmzPj0bDV1jl7pTfHffxGToa-LxwU_gvK4UoSQ5t_TpFD72dyFZp_196z6IcOIeBkkthY2LIlRirNZEF0g7FHvrllvp6djw
+accounts.spotify.com	FALSE	/	TRUE	13379419495427759	__Host-sp_csrf_sid	142566fb82375158c7546872c2b23783c210dd9c5bac3fb8c985f7abc8a7c52a
+.spotify.com	TRUE	/	TRUE	13394967895427233	sp_dc	AQCYQj4a0yCtmofjM9KTtnzfs1yphFI-DPvPHtNd5un9tFr_qxP5netvPaCNmLFVHxuXdLScYKgzTGcN1JqpZ_rtg7Fl5fAFPOomAE4KK4T40cAxYSl1hc72BCRzUMpcdC2O7cZ0M9U7ZwPuo-w7h2wNHV1vpbs0YB7JFpLD1yWuQ52NbMxl8ohMD9758TpFXkm-AEA6x6fsD3ZAjw
+.spotify.com	TRUE	/	TRUE	13394967895427646	sp_key	aef5ed8e-f8e6-40c2-b81d-535573cd3c2e
+.spotify.com	TRUE	/	TRUE	13394967896790444	sp_t	594e00dec27cd47cd6b7bbc4d9e9796c
