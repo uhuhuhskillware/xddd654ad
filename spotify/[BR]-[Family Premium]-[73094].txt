@@ -1,6 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1763160093	__Host-device_id	AQCbiXbyKLmJY2G-ftWOQVnP52TZXy7UXLGi4xBZiwj3veapNROfMyZpfXx-DBFLC_ahC6ZLeA_LowloaviFvdJ0mlI9pGJhGIo
-.spotify.com	TRUE	/	TRUE	1763160287	sp_dc	AQBhMTgeq1zJCQHdY2_lwHxy-gu6OEWeqPz-TOSGxa8Vg7JK156wKxTWM6v5XBKCjvxnYZc3y-_kaD6yNKvxFNs5gEtbcjdv8DYoclL-fEvU3aB3gA5vYEsGyPPaq2RxQPPu82J8NtYZlURUeshNnYH4Gq12b9yQ_cNvVkF7-f-2gk0Md6xWSMGGfm1MluhC3yuJMpKQZtGwHaMmxZg
-.spotify.com	TRUE	/	TRUE	1763160287	sp_key	bf6ae83b-8066-422a-a8b9-7da297a8b06e
-.spotify.com	TRUE	/	TRUE	1764366670	sp_m	br-pt
-.spotify.com	TRUE	/	TRUE	1754086756	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fsocialsession%2F6dz8aKbW3mH1nXzLfgnM6Q%3Fsp_cid%3D66735c0b8ba1fb5820b006f9d8bde8d2%26device%3Ddesktop%26utm_source%3Dshare-options-sheet%26utm_medium%3Dshare-link%26si%3DH7Njtu53RVuHsRDsZwO1PQ
-.spotify.com	TRUE	/	TRUE	1769552359	sp_t	66735c0b8ba1fb5820b006f9d8bde8d2

@@ -1,9 +1,0 @@
-.spotify.com	TRUE	/	TRUE	1774800995	sp_m	de
-accounts.spotify.com	FALSE	/	TRUE	1776360929	__Host-device_id	AQC43ddpcXQw62DglYPikVU2uTn8m39G03h5QxZLUt1_3Y68tgRK4ddcpuEX_MkDYEgyiHBouNXHPtZ6emwjtJwniKgvfVbZxFM
-.spotify.com	TRUE	/	TRUE	1773336960	sp_dc	AQBnCQrOpHwyxiW2gCyMt3lJCZKpePLCPu5kpnWE13XwBvfygu3GNH2SZ-_Ob9A7Up6d3gMZUIpP31N98xUuujL7vt21353mlaFWhZ9AW-Or4kpJ4nDtSrF0cyRm_2u0-nwL7wCoImEa_y9QdJIJpJdfFIAMrVnGh2AQqlQPBVoljDLKV-O5p56keYg8SeBuXWe8K7NXh4vU2248B80
-.spotify.com	TRUE	/	TRUE	1773336960	sp_key	f330305a-dc7d-4dfe-b974-914bc0f6674c
-.spotify.com	TRUE	/	TRUE	1774201013	sp_t	9f4c335f-1da8-4e03-bd3c-5b29ab1935f9
-.spotify.com	TRUE	/	TRUE	1777083149	_hp5_event_props.4043975597	%7B%22loggedIn%22%3Afalse%2C%22market%22%3A%22de%22%2C%22language%22%3A%22de%22%7D
-.spotify.com	TRUE	/	TRUE	1777083149	_hp5_meta.4043975597	%7B%22userId%22%3A%221069047705030020%22%2C%22sessionId%22%3A%224087146309975161%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1743005549709%2C%22referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22id%22%3A%224087146309975161%22%2C%22search_keyword%22%3A%22%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1743005549709%2C%22id%22%3A%223684339829998082%22%2C%22title%22%3A%22Spotify%20f%C3%BCr%20Windows%20herunterladen%22%2C%22url%22%3A%7B%22domain%22%3A%22www.spotify.com%22%2C%22path%22%3A%22%2Fde%2Fdownload%2Fwindows%2F%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%2C%22source_properties%22%3A%7B%22screen_height%22%3A945%2C%22screen_width%22%3A1920%7D%7D%7D%2C%22identity%22%3A%220088fc0360bd390a888c5d2adbc1869b27a181e555a9894ff64a86%22%7D
-.spotify.com	TRUE	/	TRUE	1777083157	_hp5_let.4043975597	1743005557082
-.spotify.com	TRUE	/	TRUE	1776707448	sp_adid	91be4f07-67c0-44eb-b486-f74246df71e2
