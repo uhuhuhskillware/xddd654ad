@@ -1,0 +1,16 @@
+Subscription = True
+telegram: https://t.me/freecookieseveryday
+PRIMEVIDEO COOKIE :👇
+
+.primevideo.com	TRUE	/	TRUE	1773479353	at-main-av	Atza|IwEBIOjZIrK9_-6Td0ak4y9s_cles5Zy4gw6bi2Gw2QeJo2-d_biq6jw1v-p9Pq898u-WcrYJzdvLo9AbAYb_fefZQCKQkI6vRvwRvfw3uNOobvgMWXY_kSIF8HFDGWAsE_S37HhVzQEWi_dXNyYqu393QQQw13T-6bGSVuRxS8G9951W-AoyrZnMLYEMJrDyvjHHCCYMHc6vXu9K6C4lT5qimcyunWRdenZOGE3eDI9ECFOSbZ9L5v2hUBjOdBWu2GU59U
+.primevideo.com	TRUE	/	FALSE	1773479353	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1773479353	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1773479353	sess-at-main-av	"KxjI27dwOvCCI/UWxTWrzu8LtXSNVSd+88R00K3OegI="
+.primevideo.com	TRUE	/	TRUE	1773479353	session-id	261-7718953-1778364
+.primevideo.com	TRUE	/	TRUE	1773479353	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1773479353	ubid-main-av	261-6582128-2566421
+.primevideo.com	TRUE	/	TRUE	1757269422	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTFMS1A4RzNMWVpYOTYmdGltZXN0YW1wPTE3NTQ2Nzc0MjIwMjMmdmVyc2lvbj12MQ.g7IyhdTjDh-TpmnCuk8z4GyhZ1ZGGZPXGiTuPAGVlZoxAAAAAQAAAABolkCucmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+.primevideo.com	TRUE	/	TRUE	1786443011	session-token	"IhoMqbXxbL8C8MXeQ4YcTurQ5L7+V8GfS2n4i5jDfBFdG8Squub2Bk+35eqYvPwCZRZYwnObCHaDAuyau1Yteqiltia47ckDkD8/ucNoNLPGeVgvAarjRtRkLvr6atAvRDtQCPAzaWpBIWx2Zs54ZWl0uTFQ4gG93JvGmCVvsyz387TIryJ3YwDiLZBl1z1ZWSSW1En18RRsCUY0xXpd98GQMotdA1p1i2pvSrpb7SqTossOAIZ4+2/bKudEtcturKb9n/ydKfeh651Ndu3DyCvQ7HI/T0ihnN3rvQVBIHvcvTK4Sa9ReVb3R1r3Rz5uJx7lqGI9SxlPK5WpzTPB+QI9GMZKBAlGXA5yrEGX4RJoXCsi3mfrlEvqHbKtEQAEyfeNIoUbn3w="
+.primevideo.com	TRUE	/	TRUE	1786443011	x-main-av	"GRWFsZtuWVtd49eMOMG3VAEyjiOA4LzZFZI@9t6gdRpeM7AwtAe2BaEBgax8TPso"
+www.primevideo.com	FALSE	/	FALSE	1785147062	csm-hit	tb:CBCSDKP5GN3JTEEAJC98+s-CBCSDKP5GN3JTEEAJC98|1754907062876&t:1754907062876&adb:adblk_yes
+.primevideo.com	TRUE	/	FALSE	1786457463	av-timezone	Asia/Calcutta
