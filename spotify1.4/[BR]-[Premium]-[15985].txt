@@ -1,9 +1,0 @@
-.spotify.com	TRUE	/	FALSE	1762302273	_ga	GA1.2.1279219362.1711234406
-.spotify.com	TRUE	/	FALSE	1762302273	_ga_BMC5VGR8YS	GS1.2.1727742273.8.0.1727742273.60.0.0
-.spotify.com	TRUE	/	FALSE	1762302273	_ga_ZWG1NSHWD8	GS1.1.1727742273.49.0.1727742273.0.0.0
-.spotify.com	TRUE	/	TRUE	1759278273	sp_adid	87267c2e-2067-4aef-9bcd-e252cd3410ac
-.spotify.com	TRUE	/	TRUE	1759774777	sp_dc	AQC1BWAwKhIo3tesDFZWx0WuZ3x-7tfpu5QUYZ9Kd9ZU2nhVaKGJCrn1tc9-qk3I8FWKgDh90A5QimR2jyZezpUppe1MHIp7jsghrVUFZK3b0kcfXKojakcAcJeBUeXVu3H-TphiJ73dbXAQL2YeagetrPWced4hy_ABQEv0GNekxEqLm-WkNqiwJXI-BylFHvrda5DQP0l9AtGeEr-kpo3uMLSv
-.spotify.com	TRUE	/	TRUE	1759774777	sp_key	2b2ed2da-0906-45d2-8910-b91f8fd70aab
-.spotify.com	TRUE	/	TRUE	1778023143	sp_m	br-pt
-.spotify.com	TRUE	/	FALSE	1774999382	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+31+2025+20%3A23%3A02+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BSC
-.spotify.com	TRUE	/	TRUE	1774999384	sp_t	d65d2f227298b28dcd6bf640d8b1d8ed

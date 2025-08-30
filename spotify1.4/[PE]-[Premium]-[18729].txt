@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1763367285	__Host-device_id	AQC6KKlV0tKWnv_TKdtpK1u7D0_8R95mXvuY6ufBdXvkJQUzYKV3MoBOLTF-LWeQW78-DLoRg_XrfjbJBgVS85fMVwuTI0iy0CE
-.spotify.com	TRUE	/	TRUE	1767849332	sp_dc	AQD-xTKzoNegUIbh0OTT9XKs1X52Sp_RE-VvsOtHrr8bSjsEJUBvwJRThFjSof1l1l2NkcENpIvXU6KghgQcbODujRtzzmtyBPK-0wMD92FgKYzhwcH3FOsO7HfZTm7LudOT336YGaLf4zN3LtBfN4o8fEqM_hMFZceYUjvta46o5CGn6oFyJOybETR0OuoadnrcUhPlV3rn-3EUFQ
-.spotify.com	TRUE	/	TRUE	1767849332	sp_key	e24488f8-d96a-415f-94a7-3577f35bdfd5
-.spotify.com	TRUE	/	TRUE	1757481356	sp_gaid	0088fcc5e6520341c2a7c7d372252d410ac9d6ebbd42efca0bac97
-.spotify.com	TRUE	/	TRUE	1767850800	sp_m	pe
-.spotify.com	TRUE	/	TRUE	1757483464	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
-.spotify.com	TRUE	/	TRUE	1768457029	sp_t	91b8570a942a01b615735e7a5d7830e2
-.spotify.com	TRUE	/	TRUE	1752995136	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fapi%2Fmasthead%2Fv1%2Fmasthead
-.spotify.com	TRUE	/	TRUE	1752995136	sp_landingref	https%3A%2F%2Fopen.spotify.com%2F
