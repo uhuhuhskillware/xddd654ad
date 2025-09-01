@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1786665188	__Host-device_id	AQCsm4fezA1yc2omxsnVUJPKjnRM7abXENaA9DHJt3Ax2jDoHGSJd2arVNLYnhGQWofxOEdF4d54js_Bbx910ZAE_b8PBJRB7Uc
-.spotify.com	TRUE	/	FALSE	1783641535	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+09+2025+18%3A58%3A55+GMT-0500+(Central+Daylight+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ci00%3A1%2CBG170%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
-.spotify.com	TRUE	/	TRUE	1783641535	sp_adid	6df0c840-b45f-498f-9d60-a2b4e2726d23
-.spotify.com	TRUE	/	TRUE	1783641532	sp_dc	AQC_VgXRztRSJSg8gLiGpPV8tD0iacjM6-GIkuPAR0q9p_7Xza4OBMYZxpj3GhOasZqsdQhr0vXzTU4d4KW2VoR6un_8fAb_Wxd6gEfnodBWSt6NsPevGQOBMjcvckTrkZz9ZPD5_5nXYtLDmcktC-E9bSwxCu33XgeqJSK-5qJWbpXqg2c5AfAfY0UIAOixiCpR4ftXaY7FtQq0MU8
-.spotify.com	TRUE	/	TRUE	1783641532	sp_key	858fca69-b44e-41bb-8b3b-71fb70796ff4
-.spotify.com	TRUE	/	TRUE	1783641533	sp_t	100c086a3a7be0ba5cfdd48381a1bb44
-.spotify.com	TRUE	/	FALSE	1786665585	_ga	GA1.2.1430899734.1750804016
-.spotify.com	TRUE	/	FALSE	1786665585	_ga_BMC5VGR8YS	GS2.2.s1752105099$o3$g1$t1752105585$j10$l0$h0
-.spotify.com	TRUE	/	FALSE	1786665676	_ga_ZWG1NSHWD8	GS2.1.s1752105097$o4$g1$t1752105676$j60$l0$h0

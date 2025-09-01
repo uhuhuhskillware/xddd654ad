@@ -1,7 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1769473116	__Host-device_id	AQBgJezRcpHRIXvlWrAc_FyNFr0I4N7jZj42Ea0B1IgtqUe1zSE0iBlLgnQHHZ5J83xqph5Tm1tKAZiNWolSegW8LTjtSSdoTxI
-.spotify.com	TRUE	/	TRUE	1769473288	sp_dc	AQCXV4gTPO25R3BjsbdwfR_uiJR-bEfi2mOOTtxPZG1qb5PPKtNLnM-P9DDScG0-dV_32UAtaK0HABs1J8vwBDlSax4EOcJ793ydqBVj-kS3aAJNTiIWYW9MLPTvT-TWIwa2xqxW5186JNjQf-whD7zFhwubZcDqNwjXf3vO2OvFB2qpNKsCNkZd0AHoiDrgRqizbeJJLPvTTkJrcug
-.spotify.com	TRUE	/	TRUE	1769473288	sp_key	8259035f-4c7c-467b-853c-a31d7f4c8040
-.spotify.com	TRUE	/	TRUE	1759105344	sp_gaid	0088fc1faf871ec9202d122066e5269eee08109330cc8943c5ff63
-.spotify.com	TRUE	/	TRUE	1769473343	sp_m	cl
-.spotify.com	TRUE	/	TRUE	1759958024	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
-.spotify.com	TRUE	/	TRUE	1770326124	sp_t	ab882050a8b6e57e61c9cf6387ade76e
