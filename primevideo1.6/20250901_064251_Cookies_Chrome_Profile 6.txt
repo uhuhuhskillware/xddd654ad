@@ -1,0 +1,8 @@
+.primevideo.com	TRUE	/	FALSE	1787079769	i18n-prefs	USD
+.primevideo.com	TRUE	/	TRUE	1790103769	lc-main-av	ro_RO
+.primevideo.com	TRUE	/	TRUE	1787079769	session-id	257-1403309-8489742
+.primevideo.com	TRUE	/	TRUE	1787079769	session-id-time	2082787201l
+www.primevideo.com	FALSE	/	FALSE	1785783794	csm-hit	tb:6C80C52QM00GYFRB4RRA+s-6C80C52QM00GYFRB4RRA|1755543794114&t:1755543794114&adb:adblk_no
+.primevideo.com	TRUE	/	TRUE	1787079794	ubid-main-av	259-9258865-6310100
+.primevideo.com	TRUE	/	TRUE	1787079811	session-token	"jtSIksYHfBga2VujVXPSxkNx7KYFYkCK1uX/zUXiRkH5zferykZa8d3kMARHMN8SeKVKYGbm4Rmma3H5m7gX0AjliMhTmZvtxeECQAxAg651+szVp+eKHKXyM6or616lhprYO1R2m2Gq0jqovhR3RQzvFn0Sm4hOKU/NGDK5jWogm/GD67wHP5fI/5kRf23oOT+8FrUrtkR5zmh5Br2GVc3hAoPAED45J/SurdqJWsqTz8LE0lwfWToBAE4orjX7TUsUJ4kIJFBpfoY6gIoPylQxejrNglrnUB5dUHdPEyeybLL7cHRXz+kp0SVAAK/g+JyTkqT6qj6wABA72cpt1kc4Tl+5JKE8ZJj8bOV4gKE="
+.primevideo.com	TRUE	/	FALSE	1787079838	av-timezone	Europe/Bucharest

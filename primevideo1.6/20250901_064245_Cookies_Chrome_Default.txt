@@ -1,0 +1,7 @@
+.primevideo.com	TRUE	/	FALSE	1787132293	av-timezone	Europe/Paris
+www.primevideo.com	FALSE	/	FALSE	1785836290	csm-hit	tb:s-ANNQTP093ASWRJGT87JS|1755596289927&t:1755596290106&adb:adblk_no
+.primevideo.com	TRUE	/	FALSE	1787132289	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1787132289	lc-main-av	es_ES
+.primevideo.com	TRUE	/	TRUE	1787132289	session-id	259-1153768-4090818
+.primevideo.com	TRUE	/	TRUE	1787132289	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1787132290	ubid-main-av	259-9739479-7537843

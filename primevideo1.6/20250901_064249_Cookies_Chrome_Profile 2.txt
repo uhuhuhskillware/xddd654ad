@@ -1,0 +1,8 @@
+.primevideo.com	TRUE	/	FALSE	1768038808	i18n-prefs	USD
+.primevideo.com	TRUE	/	TRUE	1771062819	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1768038819	session-id	260-4716652-4761366
+.primevideo.com	TRUE	/	TRUE	1768038808	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1768038820	session-token	"lXRvlo4+LuBHw5A5IRX+dM/1zm8wt9SABIp1FM77A/GlM9Ky4/W2XlRfOT8EvFa9CJMDioENRtMpWu7G3E6oGrr6zxEen14ektDc9SpDx9UM6+guBYzatyoMAn2Z/aZvl7VW5Bu9pIyFj+hd5/E63F8PekgE3V3TmO+jej7kqa6NoVA8LYxJsDpxinY9x8xJ74vChEErtyUgvQJXemTl3mL+NWLLat54TB2LrNdkzJJqxgNZPn10+11ml+KjIEGoWtkrdXg1eRl9bqCc+BqSk7xDDQ/phdGLLWTlqf0D+VtowAJaM1Xg2O2NtAGgIK3vjxDfUtopkNw6E1lhhtY2+Em+P0HwpnVV+Sfw9Pca348="
+.primevideo.com	TRUE	/	TRUE	1768038820	ubid-main-av	257-8808387-2414433
+.primevideo.com	TRUE	/	FALSE	1768038864	av-timezone	America/Los_Angeles
+www.primevideo.com	FALSE	/	FALSE	1766742851	csm-hit	tb:A94H7B6H8NF9JG6HFBTS+s-A94H7B6H8NF9JG6HFBTS|1736502851103&t:1736502851103&adb:adblk_no
