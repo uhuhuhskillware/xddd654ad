@@ -1,0 +1,6 @@
+accounts.spotify.com	FALSE	/	TRUE	1787917824	__Host-device_id	AQDphL9YQlllNFIIJr3lNSKQJTiC_CWcimZy16QUtSHhQskm2YDEB-4lV3NvvQZ0dlUGGHFhcYOhNhJ4Z0w9i5WBTdbaL7am8cs
+accounts.spotify.com	FALSE	/	TRUE	1753361427	__Host-sp_csrf_sid	baa427042a4e07351d3f1c176d4d7c7cfb703e1d020c68e70bbd97d178b6258e
+.spotify.com	TRUE	/	TRUE	1784893827	sp_dc	AQAfv9e6p3M1d-qgDsDahVx3UcrqAnEjHzNon7uNB2XjveEYbaalGGNzkjVIwhbYklU5XRoG9fhC08ieZTeeklyUri_UwwBaq5-XW20nPRIcHjxuXrpsSk0ZVN_VzQOkLwQb0BLgp2cZZYaUcsIiiG_ArMOcyEZaDuX28sfYxdvExZfOFH0rq7WYmFFidsgbYf79SV51vcFfvcXwwHG8CsUzdREmWPnDMGsqqXXB8oIhUha-tRE4itz9OlaUbQzvSxBIOZmeE7Ar1w
+.spotify.com	TRUE	/	TRUE	1784893827	sp_key	20d34eb2-c397-452f-85ed-cfec17db045b
+.spotify.com	TRUE	/	TRUE	1753444229	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D184e464ffb28371c9866c2cc403eaf2f%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1784893829	sp_t	184e464ffb28371c9866c2cc403eaf2f
