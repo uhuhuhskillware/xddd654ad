@@ -1,6 +1,0 @@
-.primevideo.com	TRUE	/	FALSE	1770572111	i18n-prefs	USD
-.primevideo.com	TRUE	/	TRUE	1770572111	session-id-time	2082787201l
-.primevideo.com	TRUE	/	TRUE	1773596637	lc-main-av	en_US
-.primevideo.com	TRUE	/	FALSE	1778608197	av-timezone	Asia/Colombo
-www.primevideo.com	FALSE	/	FALSE	1777312190	csm-hit	tb:s-K48XWSV21YYZ1DSRW6EX|1747072190568&t:1747072190737&adb:adblk_no
-.primevideo.com	TRUE	/	TRUE	1778608190	session-id	257-6645351-0648425

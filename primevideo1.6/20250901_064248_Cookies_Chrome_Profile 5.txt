@@ -1,8 +1,0 @@
-.primevideo.com	TRUE	/	FALSE	1769353732	av-timezone	Asia/Calcutta
-www.primevideo.com	FALSE	/	FALSE	1768057731	csm-hit	tb:s-YNRQ6S4M9CA1A2MNMYFY|1737817730962&t:1737817731101&adb:adblk_no
-.primevideo.com	TRUE	/	FALSE	1769353730	i18n-prefs	USD
-.primevideo.com	TRUE	/	TRUE	1772377731	lc-main-av	en_US
-.primevideo.com	TRUE	/	TRUE	1769353730	session-id	262-3643367-1794126
-.primevideo.com	TRUE	/	TRUE	1769353730	session-id-time	2082787201l
-.primevideo.com	TRUE	/	TRUE	1769353731	session-token	"XgTdrSVHq9OL8eldZ/Lse4/iDL5ooEJ6Udq+JO17m1M65sxbVN0IcKG2RXKbdZ/Fvf9vLRoKMs/DkM3SqI6QocojVSqZNhl8idbJlXWp5tvHY9VseJDGbWQZQH1w4THBvL7nNLiWZzK0YRBQFEANw4ePT+dY2jQTOnwcWALd4WTNgCuZUeoU58ugsQvM8+YgP78qF7f/9aREnJEiHdl0LY4crHUwZpAl+xgY8Bfnt5a+iReZPKOMLCkI9kcBgyYR6yCbU+3I0USpAxAt5b/ci4+GjJFQydxpOQsYzrMIAzVRt4mcjtT1JAPduIIZvJCTuDNWNmUSQ5U/1JJnu3K4o8RbeytesKjd5SA39qOa+fc="
-.primevideo.com	TRUE	/	TRUE	1769353731	ubid-main-av	260-9393409-7164267
