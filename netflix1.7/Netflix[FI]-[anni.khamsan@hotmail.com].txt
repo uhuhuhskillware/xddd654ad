@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	1764701192	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1757011596	_gcl_au	1.1.996501385.1749187678
+.netflix.com	TRUE	/	TRUE	1788461191	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxjIuj0_enGcuUa-mOntKiybkBZ_bfAPM.%26dt%3D1756925190821
+.netflix.com	TRUE	/	FALSE	1756926978	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1757011571	gsid	1a067507-ab06-44c9-b251-7e2eb664ef24
+.netflix.com	TRUE	/	TRUE	1788461191	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_At0ruzrrPTNoNL6Ol7LaJ6AUkenJ0dn9dSJZ2W4gwFppH9nYIBTQteZB_8GM3NIjTUrnZlVaLikRW40LvIyp_al8habxCQY6nYsG_fVuKUTOh-p4TVGuZhTlOpFf1cl_cPZbOcCMQ150KVFBlhDZ2S6FpA00cOw2y9GyQtiOk41i5HDzC6Nx1o6vFyNRtn0zGYZ6-HMVZjCGkARYOaQrdm6yNBlRoRMfARtmVXcQ3aUUHDvkg4_kW67Lzj-EN16vnp2qm7J6N4e4lWFbNPUwfT4sNF2K1n9AMk8zZFGZVqeCpRi-X3KBrgRarbcsEVxmabsYc75cux59teVU30iNpbRamE1KjMVa6tspCFnd-BMgL368gjLWqw91KvfJ4zcDEul9wOaY9lQMbLFhgo2CC87GicvBP3CpyGSaOOyDvr4OsVoGg4h95a4GfKlAhlSIINqm8tPCsica06zwkSrqNe2RZJ4tgby3-J4xF11rcASKjKtch0D-PjE9EBmflQjZGAYiDgoMfadn0NYFI47GnOe5%26pg%3DCHDYL344FVHDJJ4UVIF7ZFB2QM%26ch%3DAQEAEAABABSZkMg_SzQilzIAza-L8-GZEWBERXeR9qg.
+.netflix.com	TRUE	/	FALSE	1788461193	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+03+2025+20%3A46%3A33+GMT%2B0200+(st%C5%99edoevropsk%C3%BD+letn%C3%AD+%C4%8Das)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=098a47f5-0d4b-44bb-a0df-57231db835e3&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=CZ%3B80
+.netflix.com	TRUE	/	FALSE	1757011596	_fbp	fb.1.1749187677973.5582541298865772
+.netflix.com	TRUE	/	FALSE	1757011596	_ga	GA1.1.178940621.1723015343
+.netflix.com	TRUE	/	FALSE	1757011596	_ga_KMXMWTTLQR	GS2.1.s1755697217$o25$g0$t1755697217$j60$l0$h2122307556
+.netflix.com	TRUE	/	FALSE	1791485192	dsca	customer
+.netflix.com	TRUE	/	FALSE	1756935992	flwssn	c1151bf3-f2cf-4850-b771-3ff7d33f6ac0
+.netflix.com	TRUE	/	FALSE	1764701192	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788461171	nfvdid	BQFmAAEBEMlEXM1goTkLJQ6f-ixY2rxgzjGtfdmUNilwRx5YJc_HCmqe4owNY9KpEQwRZ6LWt3GmdpvM06Zu2zcNrH03VUbo_niZ7VQ6901gFaYdY82dw5TNFzMMOnumATiWtjJANYYXnb3UM2jaMRsz2yrcJRud
+.netflix.com	TRUE	/	FALSE	1788461177	OptanonAlertBoxClosed	2025-09-03T18:46:17.372Z
