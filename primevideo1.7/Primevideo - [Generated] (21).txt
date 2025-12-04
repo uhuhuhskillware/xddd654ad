@@ -1,0 +1,11 @@
+.primevideo.com	true	/	FALSE	1787804063	at-main-av	Atza|IwEBID-zRqKDyD1K4c0AMjn_CACT7glNTpTxR9hLhkrYQ9Y9H_ly_mSLZvWtEb5bMBi03xrDDLuXr_rVzoRNtcu6i8Eg9CBD7d22mlyLxN3qVg7K3xI_t57AuD1oKWWd_jxr6CC29NhQyO7y_fm_FvTr-J0ZXNZir09F3VjLPr3ixZs5ZlnadaFfAxBLAEdpoJfX9qTuG4nBZNacTFWBwcZbjhol9zDSjsBqWHoY0tTCrr4kJp4w1CNKahor-4XxCcIGV-Uij4xKFAFFyA_2dkQZINDpfH8wgMrM5Q6CP4vjb1z3xQ
+.primevideo.com	true	/	FALSE	1787804067	av-timezone	America/Mexico_City
+www.primevideo.com	false	/	FALSE	1786508066	csm-hit	tb:s-7RNXG2FM5FT5R599Z1VK|1756268064242&t:1756268066214&adb:adblk_no
+.primevideo.com	true	/	FALSE	1787804063	i18n-prefs	USD
+.primevideo.com	true	/	FALSE	1787804063	lc-main-av	en_US
+.primevideo.com	true	/	FALSE	1787804063	sess-at-main-av	"zrL2TtxEwHAVe/cOznsNcCCDUtRoRYPTi85G9u3CGG8="
+.primevideo.com	true	/	FALSE	1787804063	session-id	131-9828415-9693946
+.primevideo.com	true	/	FALSE	1787804063	session-id-time	2082787201l
+.primevideo.com	true	/	FALSE	1787804063	session-token	Hd+2V70GUbYRu00GvF0FyccWD6ektH2L1+8bPyhcTiHBEVzqdh6QkLWNJxOgHEov8eUtOQz095M3bwwn42IuHnzcWEhpl6HQ955Z+273l61MH5sB8PySjrRmiVIcLhAWfYYXlnWNX0YSAJm2vz1up3zGm3vDwvAiySPc/FxxXDby3w3ibMwuk19sFAtLjnY7xQCyY4mqsSYQSb0NhutLRSE5txrWBvI4kitImKVs8iRPDMczTKpZp+cweBChZFjbMBpBgMqBYiYTOxyCKRefVDgHaOjc0ElXxwNwt+JVPqpnEYWyD2wGfzLDsHdgrNWgGqW3Qu3ERhCFVNlKkIepPs6vwqVS7WiDxnKJZgIklXZVZsoNTLFvTg/Iu/YXTuz0
+.primevideo.com	true	/	FALSE	1787804063	ubid-main-av	131-1834552-3573312
+.primevideo.com	true	/	FALSE	1787804063	x-main-av	"@ZYYig2FcfXW1JNcosgiGcLQKXChemGurORAovLrVBXWQ5zl3VOGAK5vCf0v9FvM"
