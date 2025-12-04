@@ -1,0 +1,12 @@
+accounts.spotify.com	FALSE	/	TRUE	1773881090000	__Host-device_id	AQAV3GaccX4Nd_L6k_saYwL0bRNVu2RWQALCTzamknPXnSJzgufQn7pkiXXMbyxK8rQspZOkp1_3me_FlmeNlRKmsZ3mzag4igw
+.spotify.com	TRUE	/	TRUE	1773881136000	sp_m	au
+.spotify.com	TRUE	/	TRUE	1756791155000	sp_gaid	0088fc7cc3b74dbe79ed4a8b461607deff7e537cf0d7778fdbbdb6
+www.spotify.com	FALSE	/	TRUE	1751610830000	__Host-sp_csrf_sid	c757b4546fe10e23803ad7ef561461a213ceeb68e8c6ed231910aca93f5448b3
+.spotify.com	TRUE	/	TRUE	1785215414000	sp_dc	AQBXsEuwtSW1bKRpEfnAI7Tc6vvtm7cOpJDZS0LSxUPNAEg3KyXGSqZFbzimicMM6ooYt_LYdeq3dpfJjj3HLd-SJxUvwLUiX2TdHyzgvrlkJX61_2Sud-QFGrTTtysqkIpCt8DTZUgVxE6jv_8er5n1oY4hGtG2Ch5CaydSYQ0zRYhd2PL2bNF9VCXu8L8p9QefkTW3p8msLkqtRjg
+.spotify.com	TRUE	/	TRUE	1785215414000	sp_key	fcba83d3-b1c7-4452-b2b7-a3cc9c5d638b
+.spotify.com	TRUE	/	TRUE	1789992912931	sp_t	3293c38d8040e4fb6eecef4e943a9ba1
+.spotify.com	TRUE	/	TRUE	1758543312931	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fuser%2F31jug63rufazrmjoxm6tlghdzvaq%3Fsp_cid%3D3293c38d8040e4fb6eecef4e943a9ba1%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1759061731387	OptanonAlertBoxClosed	2025-09-21T12:15:31.388Z
+.spotify.com	TRUE	/	FALSE	1759061731389	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+21+2025+22%3A15%3A31+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.2.0&hosts=&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&landingPath=NotLandingPage
+accounts.spotify.com	FALSE	/	TRUE	1758460552038	__Host-sp_csrf_sid	76d0b7806e51a880cba11352ef7603011cbe7943d95870c8ba83da03ab0f007f
+.accounts.spotify.com	TRUE	/	TRUE	1758774320722	inapptestgroup

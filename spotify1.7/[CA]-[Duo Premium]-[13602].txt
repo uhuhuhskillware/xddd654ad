@@ -1,0 +1,5 @@
+.spotify.com	TRUE	/	TRUE	1770171047	sp_m	us
+.spotify.com	TRUE	/	TRUE	1767147116	sp_dc	AQB6ivfNflnpWqJft_axfLrCrD2u67I793E1TaT2gToPLLQaodrQ5dQhMvTedQFs0cEwkt0G7QQ7efx603NnIFngycxIUn9VdFnUA1xAtH-sqq2Jd1dLqZ7voC83wjUBaldWaXZWfhbF3V24j7JnYPw3m2PbfySSouHZlojPpVWG7a0E40nrwxeRfGv7YzfSf7iMjw0M8RiYFFpB0GQ
+.spotify.com	TRUE	/	TRUE	1767147116	sp_key	42776e67-08d9-414f-ba34-2190f899b628
+.spotify.com	TRUE	/	TRUE	1767147336	sp_t	370c6647130b780e872a8d11f4ba0af5
+.spotify.com	TRUE	/	TRUE	1784233065	sp_adid	15fcaaea-63f6-4f54-9213-1f871693ca7f

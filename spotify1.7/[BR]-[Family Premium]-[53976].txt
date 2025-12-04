@@ -1,0 +1,17 @@
+accounts.spotify.com	FALSE	/	TRUE	1794222502	__Host-device_id	AQBUZ4AzU70UFzwnHEGs3u2pP0covGElfPlqa5ll8M_bcHFr03z6NF8uyU3Xi_A_StlQyjzozYQvseV9ANrnaWV7FgBxPEU2hS0
+.spotify.com	TRUE	/	TRUE	1791198526	sp_dc	AQCV7LZ9DDqq9P9iceyah5o2bXK8BuG6lp2EHmR1U7dpvTJJYfpEr8QRDNicM6yj5dwX1rsrhk_GMyWjD4NrMRN7aOH5BkST9h6cGvOD3bGdGzN0kCvNq4-XBhAh9gKvNNIMMfxyjb-jpemztb_S2nuS4QUdwXLp-zf_1_Kcquf26Nu73Rar6TgFIncAYlzC9GkRbyLJLUL1FsdFKPY
+.spotify.com	TRUE	/	TRUE	1791198526	sp_key	4324176c-12d6-4b8b-a91e-2f5483324c37
+.spotify.com	TRUE	/	FALSE	1791198606	OptanonAlertBoxClosed	2025-10-05T11:10:06.086Z
+.spotify.com	TRUE	/	TRUE	1764171165	_cs_mk_ga	0.973646320436561_1764169365345
+.spotify.com	TRUE	/	TRUE	1764255758	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3Dc4cab271df0e7c036eea6d818215ef0e%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1795705358	sp_t	c4cab271df0e7c036eea6d818215ef0e
+.spotify.com	TRUE	/	FALSE	1795705367	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+26+2025+12%3A02%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BGO
+.spotify.com	TRUE	/	TRUE	1798246967	_hp5_event_props.4043975597	%7B%22market%22%3A%22br%22%2C%22loggedIn%22%3Atrue%2C%22userCountry%22%3A%22br%22%7D
+.spotify.com	TRUE	/	TRUE	1795705367	sp_adid	3cc0ca41-dffc-4b4d-aed7-3a0bf831e150
+.spotify.com	TRUE	/	FALSE	1798729789	_ga	GA1.2.898111699.1759661956
+.spotify.com	TRUE	/	FALSE	1798729789	_ga_BMC5VGR8YS	GS2.2.s1764169367$o10$g1$t1764169789$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1768337967	_gac_UA-5784146-31	1.1760561967.Cj0KCQjwjL3HBhCgARIsAPUg7a4_cGTf28PVd8J-Aamz4OLdtaHmc1k6ay7IDwJazDikUHHgVudeRSoaAqW5EALw_wcB
+.spotify.com	TRUE	/	FALSE	1764256189	_gid	GA1.2.1361379081.1764169367
+.spotify.com	TRUE	/	TRUE	1798247389	_hp5_meta.4043975597	%7B%22userId%22%3A%228233518761506297%22%2C%22sessionId%22%3A%223238343736068121%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1764169367411%2C%22id%22%3A%223238343736068121%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1764169367411%2C%22id%22%3A%225622921283398438%22%2C%22title%22%3A%22Spotify%20%E2%80%93%20Web%20player%3A%20m%C3%BAsica%20para%20todas%20as%20pessoas%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Fintl-pt%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%7D
+.spotify.com	TRUE	/	TRUE	1798247841	_hp5_let.4043975597	1764170240214
+.spotify.com	TRUE	/	FALSE	1798730282	_ga_ZWG1NSHWD8	GS2.1.s1764169367$o11$g1$t1764170282$j60$l0$h0

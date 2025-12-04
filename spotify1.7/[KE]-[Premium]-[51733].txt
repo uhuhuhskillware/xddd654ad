@@ -1,0 +1,17 @@
+.spotify.com	true	/	FALSE	1790243986	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+24+2025+12%3A59%3A46+GMT%2B0300+(East+Africa+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.spotify.com%2Fde-en%2Fdownload%2Fwindows%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+.spotify.com	true	/	FALSE	1792871986	_cs_c	0
+.spotify.com	true	/	FALSE	1792871986	_cs_id	364d7469-493e-a819-b340-625d2f23aff7.1758707986.1.1758707986.1758707986.1739197584.1792871986490.1.x
+.spotify.com	true	/	FALSE	1793267986	_ga	GA1.1.1418873410.1758707987
+.spotify.com	true	/	FALSE	1766483986	_gcl_au	1.1.1379603980.1758707986
+.spotify.com	true	/	FALSE	1792785586	_hp5_event_props.4043975597	%7B%22loggedIn%22%3Afalse%2C%22market%22%3A%22de%22%2C%22language%22%3A%22en_GB%22%7D
+.spotify.com	true	/	FALSE	1792785600	_hp5_let.4043975597	1758707999801
+.spotify.com	true	/	FALSE	1792785586	_hp5_meta.4043975597	%7B%22userId%22%3A%225549298420420795%22%2C%22sessionId%22%3A%22415181615957454%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1758707986510%2C%22id%22%3A%22415181615957454%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1758707986510%2C%22id%22%3A%225141045503919258%22%2C%22title%22%3A%22Windows%20download%20-%20Spotify%22%2C%22url%22%3A%7B%22domain%22%3A%22www.spotify.com%22%2C%22path%22%3A%22%2Fde-en%2Fdownload%2Fwindows%2F%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%7D
+.spotify.com	true	/	FALSE	1792835986	_scid	Si1kCxY4qQq3s8BZkgiExIkyIIyekC6W
+.spotify.com	true	/	FALSE	1792835986	_scid_r	Si1kCxY4qQq3s8BZkgiExIkyIIyekC6W
+.spotify.com	true	/	FALSE	1792835989	_sctr	1%7C1758661200000
+.spotify.com	true	/	FALSE	1793267983	sp_m	de-en
+.spotify.com	true	/	FALSE	1793269531	_ga_S35RN5WNT2	GS2.1.s1758707986$o1$g1$t1758709531$j60$l0$h0
+accounts.spotify.com	false	/	FALSE	1793269542	__Host-device_id	AQCe5gDW0X8JK0gOb8oE2mbEFq7WsGPmOIcNHkmPvTka47EFlQobd-Zkj9OSFpTCJtLcfPcUacI0MSyHK2ybebbDMdPkkA8xYyY
+.spotify.com	true	/	FALSE	1790245610	sp_dc	AQAPN3MzmyLde5lJPperCjZedSNPYATt6ji7JabwBu3ZL4wT6GtFFvQHEDmLANEBt4hBv_G3L73SI6fNXTfeVk1Bfl66DUt07hYpoo62OMUAmA3RRbZEcScYabCKFDlIncjg7tnY2SX4gEfjmYrAh4TvUqs9bZAEF4ZwA78oiX_CCvOZN4dMJM0zQt7KwgcuI8TMQbPM4bjyjLb3d-A
+.spotify.com	true	/	FALSE	1790245610	sp_key	4387478e-6b3c-43c4-9104-64cf16b3a736
+.spotify.com	true	/	FALSE	1792091435	sp_t	6909433d-4140-49a8-853c-6fb8047ada70

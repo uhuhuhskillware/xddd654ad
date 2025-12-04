@@ -1,0 +1,13 @@
+.spotify.com	true	/	FALSE	1772190226	OptanonAlertBoxClosed	2025-02-27T11:03:46.506Z
+accounts.spotify.com	false	/	FALSE	1781778248	__Host-device_id	AQACXcwPjgoBVg3YoOT7vWCUCioqmOrwwtdl376-Vc88kUyqU8dwgsIgni3wUSWXBVRHwWWdMdtR5pVIf7uitHzTC_sMkVOPRNo
+.spotify.com	true	/	FALSE	1794393018	OptanonConsent	isIABGlobal=false&datestamp=Tue+Nov+11+2025+18%3A30%3A18+GMT%2B0800+(Singapore+Standard+Time)&version=202411.2.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&isGpcEnabled=0&browserGpcFlag=0&AwaitingReconsent=false&geolocation=SG%3B
+.spotify.com	true	/	FALSE	1796934618	_hp5_event_props.4043975597	%7B%7D
+.spotify.com	true	/	FALSE	1794393018	sp_adid	9db0f750-f476-4113-a78a-89926addafe8
+.spotify.com	true	/	FALSE	1794393015	sp_dc	AQBhvDNgvEZvdrC-FjfNPIpb5NDlYjstEOiDSmuX-v5hoMXOMSXtOP9cvJHsZYPRm6B9_wZaZ74oZCDERvO99oSXOVIl8-TpWw1qzYzhIK6bIQGBMbH53-oP8IXiQ4lk2uTKu8Ocg9lFsZPiMCLR9C7hqwaHadsSSIhArNyv7Jx0vgTVyoWu8I8wf28bhIn2gErnh3LrBubA5BBgNww
+.spotify.com	true	/	FALSE	1794393015	sp_key	0fe7a787-b24e-4efa-90b5-e4d268d47e00
+.spotify.com	true	/	FALSE	1794393015	sp_t	783f827cd98ddc45d5d1b0b15ef0d13a
+.spotify.com	true	/	FALSE	1797417083	_ga	GA1.2.1211507349.1745301178
+.spotify.com	true	/	FALSE	1797417083	_ga_BMC5VGR8YS	GS2.2.s1762856951$o2$g1$t1762857083$j60$l0$h0
+.spotify.com	true	/	FALSE	1796934683	_hp5_meta.4043975597	%7B%22userId%22%3A%222098290517336659%22%2C%22sessionId%22%3A%223513031156452529%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1762856951445%2C%22id%22%3A%223513031156452529%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1762856951445%2C%22id%22%3A%228602680410110618%22%2C%22title%22%3A%22Spotify%20-%20Web%20Player%3A%20Music%20for%20everyone%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2F%22%2C%22query%22%3A%22%3F_authfailed%3D1%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%7D%7D
+.spotify.com	true	/	FALSE	1796934816	_hp5_let.4043975597	1762857215558
+.spotify.com	true	/	FALSE	1797431497	_ga_ZWG1NSHWD8	GS2.1.s1762871497$o4$g0$t1762871497$j60$l0$h0

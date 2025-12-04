@@ -1,0 +1,8 @@
+.spotify.com	TRUE	/	TRUE	1758146728	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D207ad3c575c0699cfc329ed006c651ea%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1773612345	sp_m	us
+accounts.spotify.com	FALSE	/	TRUE	1773612434	__Host-device_id	AQDIEAnXfhEp3Jl4q9e9cgAXADU3bge4HZpFmPRvdRSg1CwR0dov29TJ2wkGssni8ibv7E3sLNz0INIDS39EdhHN0g9bEGBLOeo
+accounts.spotify.com	FALSE	/	TRUE	1758064110	__Host-sp_csrf_sid	1a8d87bbf46d0bfc1cfe2e9338ec193fe5c46cc47d3842a974d4ec6607883e89
+.spotify.com	TRUE	/	TRUE	1773612510	sp_dc	AQAJnTfqKKtKIqAxVj3eQSuhxadz7gf51mCxE-FzOufBFSjAknzq7al7Z_PjBGNxuWl-8I5wFb0JFtj6j1Pec44BXvZey4nEJjTMjV_o7pGgLlPz2WiqyN7D7S7DDRHr-ShdTX7IYOjYRS1zc_kD1UEd9PjkBQAkDCVb-UoxthLjfXb5XdvFjfNMJM5luOlET_jNtDgNBgSMOJTsR88
+.spotify.com	TRUE	/	TRUE	1773612510	sp_key	c9fcd64e-1f7b-405e-9ca7-d87cc2b2bb7d
+.spotify.com	TRUE	/	TRUE	1773612538	sp_t	207ad3c575c0699cfc329ed006c651ea
+.spotify.com	TRUE	/	TRUE	1763244581	sp_gaid	0088fc9b4f262a45be351c812be3405b4464fab5a1037b465f49fb

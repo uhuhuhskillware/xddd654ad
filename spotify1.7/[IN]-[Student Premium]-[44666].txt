@@ -1,0 +1,10 @@
+accounts.spotify.com	FALSE	/	TRUE	1794929465	__Host-device_id	AQCGfNCIfE5RxauTEv60G-dqlKSUb01g0y0n15NRzvssarTt9jB8eMlVVUSVoIR4oF_729Zs5bYgXTcOu__5z55-HQfZXGBLx78
+.spotify.com	TRUE	/	TRUE	1791905473	sp_adid	32799e3d-901c-488d-aaeb-386fb16ccce1
+.spotify.com	TRUE	/	TRUE	1791905469	sp_dc	AQDkJW83bAZ2PV47eLnYm9K3hGunPmlGhDcIGvUP79V1t6H7I0NDiEhB1ObPW7hooPHFvM0mM-bC7TNXkWSqss49DJ5P9Sc3HUuoDGSpuFYv0CzY8rGbbB0k2jAvavvgFaJpAR8Jy22AXSdhqrLYSC63XKqRCPoskBxuDAqwBjHEQq3A_HmRWQysePmgmoNKn3Apn8Xmt5ClpPBWh6xsVjXcri6EHL2e9FPZiI5PAtYh7Q_hKyHPbQd4kI5m2dm4IxXQSzltMfGTmck
+.spotify.com	TRUE	/	TRUE	1791905469	sp_key	da0829e4-2716-46f2-9f99-e129bebf900c
+.spotify.com	TRUE	/	TRUE	1791905470	sp_t	d187d7ce16de48d7bd6b4be2ecccb458
+.spotify.com	TRUE	/	FALSE	1791905534	OptanonAlertBoxClosed	2025-10-13T15:32:14.369Z
+.spotify.com	TRUE	/	FALSE	1791905534	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+13+2025+21%3A02%3A14+GMT%2B0530+(India+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1794929534	_ga	GA1.2.334351901.1760369426
+.spotify.com	TRUE	/	FALSE	1794929534	_ga_BMC5VGR8YS	GS2.2.s1760369427$o1$g1$t1760369534$j13$l0$h0
+.spotify.com	TRUE	/	FALSE	1794930117	_ga_ZWG1NSHWD8	GS2.1.s1760369426$o1$g1$t1760370117$j60$l0$h0

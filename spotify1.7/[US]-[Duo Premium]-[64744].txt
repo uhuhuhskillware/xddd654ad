@@ -1,0 +1,11 @@
+.spotify.com	TRUE	/	FALSE	1794766260168	sp_t	f4cdfeb06cc8b58152127b7903f0cd8b
+.spotify.com	TRUE	/	FALSE	1794766262000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+13%3A11%3A02+GMT-0500+(Eastern+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ci00%3A1%2CBG170%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
+accounts.spotify.com	FALSE	/	TRUE	1775956635000	__Host-device_id	AQBKDSh_s1SXPoJppUt12uW3rhP2_w6EMHLkVpX4DUXceh3foKWwt0X4vMqvHKIXRunhthToe6yY9Cf6cI5NopY1XYxpa767UZM
+.spotify.com	TRUE	/	TRUE	1772932691000	sp_dc	AQB3wLDOvCl30KZQsaOAH2VGIwRk7ibl-lXIbzlUWV9Ed_J4kFHDDODfpVz2AZ21dp2-vxjfnAjfgGvfhei_1s1smq7TV8Yo2RFITRt40lITxcDhCKlEiKVGreq_ESw2WjOOnfVbph7FWP5hcTZT8P7Gpuyxt14SYwzLgUuBtrv5Qr-abR5349ZUTcpI4JWIWWBwbCbi_f-3xR48zWI
+.spotify.com	TRUE	/	FALSE	1772932691000	sp_key	7305d61d-c2d2-43ae-aa22-96697356a200
+.spotify.com	TRUE	/	FALSE	1789359184571	sp_t	83ab88b836e24decb3d07d434f9ae861
+community.spotify.com	FALSE	/	TRUE	1774978160355	LithiumVisitor	~2IWpNsjm6cwn784WT~e537g6Hkb89EFPiPEUGI-6Lplv2cDM7sXYedj1lPGxu5K3SGGV-hQI2PkRiTQixCmgNDkPFht9Tua6gjtxyUGg..
+community.spotify.com	FALSE	/	FALSE	1774978160647	VISITOR_BEACON	~2yJNDwnunZKotL49F~CHw9FyyDuqbOCO7qSQ9Mqh8SVHRp3z4NrgrNMcLvJedbZlCSFDoIaOEWYGZe1avz889mwQ4_9M8FRRgwQGCabQ..
+.spotify.com	TRUE	/	FALSE	1793768149358	sp_t	f7aa2cd7f933cab4f0b9649c7171c6a0
+.spotify.com	TRUE	/	TRUE	1762318549358	sp_landing	https%3A%2F%2Fpagesix.com%2F%3Fsp_cid%3Df7aa2cd7f933cab4f0b9649c7171c6a0%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1763316660168	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3Df4cdfeb06cc8b58152127b7903f0cd8b%26device%3Ddesktop

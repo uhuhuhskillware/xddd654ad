@@ -1,0 +1,12 @@
+.spotify.com	true	/	FALSE	1793265877	OptanonAlertBoxClosed	2025-10-29T09:24:37.580Z
+.spotify.com	true	/	FALSE	1793265877	eupubconsent-v2	CQaDO1gQaDO1gAcABBDACCFgAAAAAAAAAAYgAAAAAAFBICgACwAKgAeABBADIANAAeAB-AGUAOeAdwB3gD4AH4ASUA4gB7QEOgLYAXYAvMCZwQAIACQATgCVgGLDoCoACwAKgAggBkAGgAPAA_ADKAHPAO4A7wB8AD8AIsASUA4gB7QEOgLYAXYAvMBlgEzhwAYAC4AJACEAJWAYsAyYhAFAAWAOeAdwB3gLsAmcSgFAALAB4AO8AfgCHQFsALsAXmAywCZxIAIABcAdwCVgGLFICQACwAKgAggBkAGgAPAA_ADKAHOAO8AfgBFgCSgHtAQ6AtgBeYDLAJnFAA4AFwASACcAHcAdsBiwDJi0AEAdwAAA.YAAAAAAAAAAA
+.spotify.com	true	/	FALSE	1796289878	sp_m	dk-da
+accounts.spotify.com	false	/	FALSE	1796289894	__Host-device_id	AQAyheLOpKqVGIEDhCQ4hGbd4ZOHD350RFf86N8ZUf2-jAbJRfypqL4hy8Go9b82zwFiBe166QD4PKZDLHNK_sJynOJXI1wzEK4
+.spotify.com	true	/	FALSE	1766913920	sp_gaid	0088fc97aba37f783b398c14aab9e9134b11106138a015831dd237
+.spotify.com	true	/	FALSE	1766913920	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	true	/	FALSE	1793266911	sp_dc	AQBN465TydKbSsGn6yojTSkclBjDvjOjgOy_gWafzOAEwT79BcI6wsYT1cfcexDf29-GGf8ViZvPanyVm8jB4Dw2oNLDX5r5ErWV0MXy9Cw_-iH1s1h1QxhW74yNs7kvaJTqY2LNk1_iD8wcBcGyq-6P3s__T8tcl0-2PqgiFZgfbOFOIdoRT368EJBkyvQTpNc9LoWrGDwQesuRqVA
+.spotify.com	true	/	FALSE	1793266911	sp_key	1e33104f-1051-4a7e-aeca-609bf034d97a
+.spotify.com	true	/	FALSE	1793266910	sp_t	0929f23a22b4f25391d2862cf27510a1
+payments.spotify.com	false	/	FALSE	1793267199	ravelinDeviceId	rjs-f1b8ea97-636f-4701-88dc-e90e56ec172c
+.spotify.com	true	/	FALSE	1793267226	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+29+2025+10%3A47%3A06+GMT%2B0100+(Central+European+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2049299-6a5f-4558-b40e-929625495cb4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&intType=2&geolocation=DK%3B84&AwaitingReconsent=false
+.spotify.com	true	/	FALSE	1793267226	sp_adid	da78545e-4c4b-433c-a577-458b2f4bc377

@@ -1,0 +1,10 @@
+.spotify.com	TRUE	/	TRUE	1766609237000	sp_dc	AQBScAkh7jFo3dzj47hNnbsax_gW8a9Wz6TyWx_ZOA-w8xpOu7qpV6Hny_WSzptsCd1H4pdBmyfjZi03I2WOS-6RMvmYNgVLQZHSmf7q9dH4fHFMJiLJiiNRNAweE5nkHmha8O9CrakzGY-AkNY-dfcVPOEy8p_166tCxzrwSsPFTUqfVjxtINS03ZFz2Dsk04djZGFqDyPh3XNVAgPZdbJpuU7lSu-pwOXnVQCLirpH0w5QoREKDN2JJaarXnc47-v3bxV1rxoGauE
+.spotify.com	TRUE	/	TRUE	1766609237000	sp_key	ed7010cd-2f8e-484d-9f67-76bcfffb7a7f
+.spotify.com	TRUE	/	FALSE	1766609376000	OptanonAlertBoxClosed	2024-12-24T20:49:36.603Z
+.spotify.com	TRUE	/	TRUE	1791317406593	sp_t	80414e2e8379442a1cf77abb8952b9a5
+.spotify.com	TRUE	/	TRUE	1791317413929	sp_adid	845e93a4-0a86-4ec4-bc24-5cf3b1e4ebf9
+.spotify.com	TRUE	/	FALSE	1791317416000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+06+2025+14%3A10%3A16+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=MX%3BMEX
+.spotify.com	TRUE	/	FALSE	1794341420575	_ga	GA1.2.307919455.1735073230
+.spotify.com	TRUE	/	FALSE	1794341420607	_ga_BMC5VGR8YS	GS2.2.s1759781417$o4$g1$t1759781420$j57$l0$h0
+.spotify.com	TRUE	/	TRUE	1791322506629	sp_t	ae07d72f5c29ea18f8e12c3989727aa0
+.spotify.com	TRUE	/	FALSE	1794346763850	_ga_ZWG1NSHWD8	GS2.1.s1759786763$o7$g0$t1759786763$j60$l0$h0
