@@ -1,0 +1,9 @@
+accounts.spotify.com	FALSE	/	TRUE	1770296970	__Host-device_id	AQDlXpXCO8p8tFFLy_6M4MkYk6l4GM05dlthGeOmEvutnx4VUTnP4q87jmLDyJzQqnXh5PpEj1e8TRkQKfIVJXqGCzUBGvyJHg4
+.spotify.com	TRUE	/	TRUE	1770296996	sp_dc	AQAUpyeq80OxMC9jr6NxESnJ-AvB_q1s7RXx9oACW6XSmdC-LlZXnpOEuLFw0T43g4bTGhIl5wXX8aJxOO4QFi6bXkAeEk5gz9LK98FLDhRt2dY3PZune62ANU1D-LsW6qn2M7cblLFU22Y8SrzcmHBOvB53P-YIsV2QyvyspeD2DB9mYXmQnUL4YTE1fTLFwJIvakcII76SkN7fmCQ
+.spotify.com	TRUE	/	TRUE	1770296996	sp_key	0d4e71ab-55b0-41c0-8aa4-01449d180a7b
+.spotify.com	TRUE	/	TRUE	1760021124	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F03UYZ5R9V10OkX0aazQZRB%3Fsp_cid%3D55f13c5ef7ac568e40985fa3e253a46c%26device%3Ddesktop%26utm_source%3Dembed_player_p%26utm_medium%3Ddesktop
+www.spotify.com	FALSE	/	TRUE	1759938407	__Host-sp_csrf_sid	4f18fd32b499858001280b27975638a77d19ddd7906bda93ce71abbd1c5fe4e5
+.spotify.com	TRUE	/	TRUE	1765118803	sp_gaid	0088fcced0a68a69c980b9f886e3a982971d01157dab8e40d9b0c7
+.spotify.com	TRUE	/	TRUE	1765118803	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1775486803	sp_m	dk-da
+.spotify.com	TRUE	/	TRUE	1775486810	sp_t	55f13c5ef7ac568e40985fa3e253a46c

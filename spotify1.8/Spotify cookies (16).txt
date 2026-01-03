@@ -1,0 +1,10 @@
+accounts.spotify.com	FALSE	/	TRUE	1769774119	__Host-device_id	AQBmMO5uynY9U6VKIVz13vDdnvQPjR7Cqx1yI6yWEjHNJSMxr5bFmoGLjw7agUZ1ZBdO2-iHSWlvgvWz1KJ4JpY3gDSW8pvHX_M
+.spotify.com	TRUE	/	TRUE	1769774145	sp_dc	AQAphz13YWwRgmuYEQ-Otbgx93RttUu2e0DsGlxWPXmc9pVGtArCIEsbGAnXj3AByEKX1fGzK33es3OrmIaquoKbqfVYZ58euuYqwx9A5H8f6d3nQWPvoPZWTcXToIK_l4rD_Ysz5zSStkwC-xDupi54Ui5JHfRipUGAfjeTHlugrZZUxZdxAtNOewG06304AbuFehE6laz1prHOJZ4
+.spotify.com	TRUE	/	TRUE	1769774145	sp_key	0732d88b-27ac-45b7-b253-6656e26b6157
+community.spotify.com	FALSE	/	TRUE	1769859859	LithiumVisitor	~2aTZes1iDxW1Hx7N4~6RwW02Hj7iNKQs6_OC-_Lz9Aev_PhBboxiQaqIAuLLObK1-6bcVWc81eZnNaonUGkhejMUqPZtJ7M7u7BVSFuw..
+community.spotify.com	FALSE	/	TRUE	1769859860	VISITOR_BEACON	~2X3gfnwwfkv9DOueB~zDy5eSRQSWzdNB6qE96PSztDdY20ZNumoLKw426-lBlDgOQhBNob-lhSysVf5d9m5d-xlk4uc4HYxbfUDFMsmQ..
+.spotify.com	TRUE	/	TRUE	1769859858	sp_t	369d9b75dc9a0397443dd3ea6ad6fb59
+.spotify.com	TRUE	/	TRUE	1766404965	sp_gaid	0088fca0c5960cc51e85ea9ebc343ed8261bec70f0979dc2fa948f
+.spotify.com	TRUE	/	TRUE	1761307365	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fde%2Fdownload%2Flinux%2F
+.spotify.com	TRUE	/	TRUE	1761307365	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1776772965	sp_m	de

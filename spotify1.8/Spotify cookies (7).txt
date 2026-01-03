@@ -1,0 +1,12 @@
+.spotify.com	TRUE	/	FALSE	1794163797	sp_m	us
+.spotify.com	TRUE	/	FALSE	1791169880	sp_dc	AQAW9B84BYMb7OJMEL8BkXJEZGB15GuBAx9Vxw1Gl_o28Okth87H3b1A0tHl33Xsyf27KGo9K4tyc0jtV3Uy0jz-XLMGKBTCrR19tbwxX1QU74DDGSc7XeXhAarGcrvEUdf8YyMNU5NAMlAFvvxYMNNtz_oNlHgAFbkRGDyBUsRiKivjFj8XSVK-WLj9hWzgsqCNus1ExHZ7yHuRcag
+.spotify.com	TRUE	/	FALSE	1791169880	sp_key	703731e6-89ab-4646-98f4-bafb37136d2a
+.spotify.com	TRUE	/	FALSE	1766312893	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0m5FF7R6AEivX46XlLJDh6%3Fsp_cid%3Dd40a0ccd-c5a7-458a-bf80-523ea9b10b74%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1795090286	sp_t	d40a0ccd-c5a7-458a-bf80-523ea9b10b74
+.spotify.com	true	/	FALSE	1794163797	sp_m	us
+accounts.spotify.com	false	/	FALSE	1794193850	__Host-device_id	AQB3LHTZ3lMrD3Y77bk9AOD57NHRg8-BGAzq35f972AIJQ4OsfaPi-lRu_ZOxwY7PKS3E88ndNYwpZlyxH0N22mjHSFqGo_xTe8
+.spotify.com	true	/	FALSE	1791169880	sp_dc	AQAW9B84BYMb7OJMEL8BkXJEZGB15GuBAx9Vxw1Gl_o28Okth87H3b1A0tHl33Xsyf27KGo9K4tyc0jtV3Uy0jz-XLMGKBTCrR19tbwxX1QU74DDGSc7XeXhAarGcrvEUdf8YyMNU5NAMlAFvvxYMNNtz_oNlHgAFbkRGDyBUsRiKivjFj8XSVK-WLj9hWzgsqCNus1ExHZ7yHuRcag
+.spotify.com	true	/	FALSE	1791169880	sp_key	703731e6-89ab-4646-98f4-bafb37136d2a
+spotify.link	false	/	FALSE	1775870908	_s	dypn%2Fa7mYF5XgatiFWUxWtjMa0shOpNAe5a1Cz4%2Fb0pyRuOa43zLmL6y0nIj3IGP
+.spotify.com	true	/	FALSE	1763639800	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0m5FF7R6AEivX46XlLJDh6%3Fsp_cid%3Dd40a0ccd-c5a7-458a-bf80-523ea9b10b74%26device%3Ddesktop
+.spotify.com	true	/	FALSE	1795090286	sp_t	d40a0ccd-c5a7-458a-bf80-523ea9b10b74

@@ -1,0 +1,16 @@
+accounts.spotify.com	false	/	FALSE	1778000037	__Host-device_id	AQCMe0S3-Cw8Wq-LIskDqpWmuWgjXV6BjanYJCXCccsX9qArIYZTnvg3k3YmOoED933Noe6xP3O89wrqFn4uLWmmVtzSdZqLnjg
+.spotify.com	true	/	FALSE	1778168675	sp_dc	AQBpPCnh1vrVGGKNzPS4QOOLKAurYvZBwOEQCtJddiUWiEamWC5mbkotjbcnDGNDduqX7xz_NC3k8Y7XpDXJRKgjgSu1Pg8qh-Q_OD1raAb9LMWnWYzvzsUkX3bGA4UsfogrqqeB60bToI2VbpHEwhrylkIYQgqh0xquC72O_GQeJDrN5KL2Zo0YHzjx6eYnLGMOqFUNNnv-x6J_Cg
+.spotify.com	true	/	FALSE	1778168675	sp_key	6130e77f-5929-4aee-9cf0-7dd547006088
+.spotify.com	true	/	FALSE	1778168646	sp_m	br-pt
+.spotify.com	true	/	FALSE	1767800724	sp_gaid	0088fc5619e1fdeea23d9dddab62d69a452b46f6742eabf2b9ee9f
+.spotify.com	true	/	FALSE	1767800978	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+payments.spotify.com	false	/	FALSE	1778169180	ravelinDeviceId	rjs-7773cb05-49a6-46c3-a503-7f38f3089dc0
+.spotify.com	true	/	FALSE	1778169291	sp_t	173f5e39-98e5-48aa-aac8-0903e6961f9f
+accounts.spotify.com	false	/	FALSE	1778000037	__Host-device_id	AQCMe0S3-Cw8Wq-LIskDqpWmuWgjXV6BjanYJCXCccsX9qArIYZTnvg3k3YmOoED933Noe6xP3O89wrqFn4uLWmmVtzSdZqLnjg
+.spotify.com	true	/	FALSE	1778168675	sp_dc	AQBpPCnh1vrVGGKNzPS4QOOLKAurYvZBwOEQCtJddiUWiEamWC5mbkotjbcnDGNDduqX7xz_NC3k8Y7XpDXJRKgjgSu1Pg8qh-Q_OD1raAb9LMWnWYzvzsUkX3bGA4UsfogrqqeB60bToI2VbpHEwhrylkIYQgqh0xquC72O_GQeJDrN5KL2Zo0YHzjx6eYnLGMOqFUNNnv-x6J_Cg
+.spotify.com	true	/	FALSE	1778168675	sp_key	6130e77f-5929-4aee-9cf0-7dd547006088
+.spotify.com	true	/	FALSE	1778168646	sp_m	br-pt
+.spotify.com	true	/	FALSE	1767800724	sp_gaid	0088fc5619e1fdeea23d9dddab62d69a452b46f6742eabf2b9ee9f
+.spotify.com	true	/	FALSE	1767800978	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+payments.spotify.com	false	/	FALSE	1778169180	ravelinDeviceId	rjs-7773cb05-49a6-46c3-a503-7f38f3089dc0
+.spotify.com	true	/	FALSE	1778169291	sp_t	173f5e39-98e5-48aa-aac8-0903e6961f9f

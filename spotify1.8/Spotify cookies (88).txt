@@ -1,0 +1,13 @@
+.spotify.com	TRUE	/	TRUE	1766043065	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D4b4a9c04adb308d568a647cce51d8446%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1773922872	OptanonAlertBoxClosed	2025-03-19T12:21:12.661Z
+.spotify.com	TRUE	/	TRUE	1773922858	sp_dc	AQBP6d61tiga2MGCmoD7nrX74nCDWhch9XHXvE2awWIxE1-RQrsbS7LxIhNADF8aJ4GcVJj628RqYxb_80_CINWnOgEhHir9odPs_Rlf1p6cxlz4a0HTQbSci_jCPA8g0fdOjGlOj-ERBUv1BSGEpqghEToa_sgpdlgeROXE1qf-vU_bG1ObFi83YE_SAF3xhPbw51LxLRUvIF_AYUs
+.spotify.com	TRUE	/	TRUE	1773922858	sp_key	cd9a25ad-0d51-44a4-b464-217198e5fa03
+.spotify.com	TRUE	/	TRUE	1773922938	sp_adid	f968c20c-30a3-4234-8ab6-b6b7dba92c39
+.spotify.com	TRUE	/	TRUE	1766043065	sp_gaid	0088fcf722f9ca8c10ec96bf3ffdcfed255628a8289bcc3e91a1ac
+.spotify.com	TRUE	/	TRUE	1776946915	sp_m	zm
+.spotify.com	TRUE	/	FALSE	1776949784	_ga	GA1.2.764072204.1742386869
+.spotify.com	TRUE	/	FALSE	1776949784	_ga_BMC5VGR8YS	GS1.2.1742389741.2.1.1742389784.17.0.0
+.spotify.com	TRUE	/	FALSE	1766043065	_gid	GA1.2.39096984.1742386878
+.spotify.com	TRUE	/	FALSE	1776951604	_ga_ZWG1NSHWD8	GS1.1.1742391604.3.0.1742391604.0.0.0
+.spotify.com	TRUE	/	TRUE	1773927606	sp_t	4b4a9c04adb308d568a647cce51d8446
+.spotify.com	TRUE	/	FALSE	1773927704	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+19+2025+15%3A41%3A44+GMT%2B0200+(Central+Africa+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=ZM%3B09&AwaitingReconsent=false

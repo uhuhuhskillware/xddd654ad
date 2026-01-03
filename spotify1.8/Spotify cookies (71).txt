@@ -1,0 +1,6 @@
+.spotify.com	TRUE	/	TRUE	1774265503	sp_m	fr
+.spotify.com	TRUE	/	TRUE	1774266559	sp_dc	AQAhIpmAT90x0yWumLCqP07CxqDaNxlz8PwwBmpgco_Pm7CWMU9DXjLAZbEsk9ZALIWhoZ_okubU9D7tJ4jIm2mZC86I_ZZg4BQVB07K9TL-trLwexisU-TCr4dGF6xtgqocntPZmj4h4imTpLzV8RU-3tzQJio02rPFJTmTQl-qASwZ_YB570TFCQPeMc2lMve_xv_iUc3vlOve9g
+.spotify.com	TRUE	/	TRUE	1763898559	sp_gaid	0088fc2c83976b5f426225d349b51f4fc1bde96f181ea0a7fe98ad
+.spotify.com	TRUE	/	TRUE	1774266559	sp_key	959b937c-904a-4021-b0f6-b1d0251c9212
+.spotify.com	TRUE	/	TRUE	1766312893	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fsocialsession%2F3G1uvIgQp7J7jB98cyHanq%3Fsp_cid%3Dffd2efc67b1ef41d9a3fecb0ad59411d%26device%3Ddesktop%26utm_source%3Dshare-options-sheet%26utm_medium%3Dshare-link%26si%3DqI9AyhsXTNe_23f7UMCi9Q
+.spotify.com	TRUE	/	TRUE	1776806057	sp_t	ffd2efc67b1ef41d9a3fecb0ad59411d

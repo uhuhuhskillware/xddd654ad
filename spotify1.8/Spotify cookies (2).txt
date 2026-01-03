@@ -1,0 +1,9 @@
+.spotify.com	TRUE	/	TRUE	1771123309	sp_dc	AQDdvRT1iaUIax0tDyA3cZzwb6lW2kc69bpJcgq7mWiOgE-au-gwRxz8tTuKhtTICt9iV-UDJn1ydepOFIa6sAxfhS052r55bPE_Q3Q4YPw6uPff-YXydxC2hgENMnGyo-ytAMWtAhsrQqwAZh_8aPkyIYLjmRULIDWYKgTPx9GwSEZhiwxopOPJHyIKsCz_JcOjuxf5NNPe5kOnKg
+.spotify.com	TRUE	/	TRUE	1771123309	sp_key	d5b72c34-4c16-4675-a2e6-4febdf75b39d
+accounts.spotify.com	FALSE	/	TRUE	1774147280	__Host-device_id	AQDs4mSw5gEZnBQG9LEkecZERC4iiq_x0TLoQyiqjCobmS9vI3cDs6G3LQaY15rB_21HWYd91TsTh-WSwPdDajTiOQI8hK0cyQ4
+.spotify.com	TRUE	/	FALSE	1776228195	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+15+2025+14%3A43%3A15+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1779252201	_ga_BMC5VGR8YS	GS1.2.1744692196.2.1.1744692201.55.0.0
+.spotify.com	TRUE	/	FALSE	1779252201	_ga	GA1.2.1726981155.1739587189
+.spotify.com	TRUE	/	FALSE	1779252221	_ga_ZWG1NSHWD8	GS1.1.1744692195.2.1.1744692221.0.0.0
+.spotify.com	TRUE	/	TRUE	1776228190	sp_t	af8a90b6f84c02ce044b33f1b0d8d0d1
+.spotify.com	TRUE	/	TRUE	1787240239	sp_adid	8bde6ef3-aeb3-4256-ba77-fc5c1fba6a33

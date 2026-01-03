@@ -1,0 +1,6 @@
+.spotify.com	TRUE	/	TRUE	1781150466	sp_t	3aefd50e-1fcf-41b1-9b71-4d48869b31d4
+.spotify.com	TRUE	/	TRUE	1788370942	sp_m	se
+.spotify.com	TRUE	/	TRUE	1766312893	sp_landing	https%3A%2F%2Fchallenge.spotify.com%2Fc%2Fb61aef3f-bda4-441c-a05a-24425e40901d-4%2F8b43deb8-d64f-4a69-a9d3-5dec21925aea%2Femail
+.spotify.com	TRUE	/	TRUE	1766312893	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1791718795	sp_dc	AQDp1EIvgx7_Xm-PkMO2MIXhSzEh9owtHPzBs70KU5HDo_qcWkNIr_OqMYwvHnenf8SNenMaNsSinGa3hIUEHDQkZXWEQxDg6FJ2Q35i5IQ5GL8XJNrLvVZIYxz31AywMeCQ80vtQ4Gued8Q75SbFKyQmq4YZnjFJJGidqj-CWWlu0xWlN1dP0xFRYX2QBrtizya9kaGFGEwo_rvow
+.spotify.com	TRUE	/	TRUE	1791718795	sp_key	aba77e53-327d-48d1-b546-347437384952

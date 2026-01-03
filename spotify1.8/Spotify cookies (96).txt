@@ -1,0 +1,7 @@
+accounts.spotify.com	FALSE	/	TRUE	1791667388	__Host-device_id	AQAr89eUh0t9iwNNAaOX4oXYoAlOwAuUHBJ02TfWjHTc0vRdhjVVummy4bZ8NwjmiC_UMlqQAasgPR0pSWcxdAZHXqNxvUoaxyY
+.spotify.com	TRUE	/	TRUE	1788643435	sp_dc	AQAdZJqF_SnJjeeY8o_UgccKMxfhhhEqkEoA26_ATfdCI_md2DVKFGNjSaDDbBeIW_O1chlveK81WU3j_1ieHgfIfmb9bepxW6D2DND-sZvFU555ZuVpUbVynHUTHxw4kRcNd7x9q1Mv-TMfrI7WysBEVWiO8PecLUhq6zvHrWCz2kFuxo1Oc4AzsfYCgrWohrnt7iWykEkD40YW6pc
+.spotify.com	TRUE	/	TRUE	1788643435	sp_key	ccc19411-13a9-4cf0-ad0d-878c35114f03
+.spotify.com	TRUE	/	TRUE	1762291494	sp_gaid	0088fcbab8ab69c009edb16a13201081e8e82ee735dcdbe0b41a52
+.spotify.com	TRUE	/	TRUE	1791667494	sp_m	de
+.spotify.com	TRUE	/	FALSE	1788643668	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+05+2025+23%3A27%3A48+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e9c2f41-c863-4500-a816-800327e1c531&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cf11%3A0%2CBG181%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1788643666	sp_t	bdd40b79003dc9b44ee7b921dd76d728

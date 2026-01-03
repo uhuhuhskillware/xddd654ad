@@ -1,0 +1,11 @@
+accounts.spotify.com	FALSE	/	TRUE	1750511424	__Host-device_id	AQCV8-4t7MCDKV-L6tKKeAzoMk0fPF2-tvv-zWlwgQ091QPpGhaufCppWvkNma3ZsGFYu8Sic8JUTG_866IaLCOSGV1ef0vqoos
+.spotify.com	TRUE	/	TRUE	1754494167	sp_m	hu
+.spotify.com	TRUE	/	TRUE	1747726666	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fhu%2Faccount%2Foverview%2F%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account
+.spotify.com	TRUE	/	TRUE	1747726666	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1752824266	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+accounts.spotify.com	FALSE	/	TRUE	1747643894	__Host-sp_csrf_sid	519459de11adaec937d92b690778cbf870564cd82662080e7057e04101906cdf
+www.spotify.com	FALSE	/	TRUE	1747643879	__Host-sp_csrf_sid	a09c40b9813687a512abe53684ed7c8bdd1df1538422fdaa24ae8100d3a6ebc2
+.spotify.com	TRUE	/	TRUE	1763192294	sp_dc	AQCX9CRumZeAtWAzscxJRbSNx1QdcYeabJMnNG1ftjBRX5MjMLz61WpcjAEE30r7nocpltBRC_ncYBC5lpGdzdkUvzfKPRZeewkL6dPY_dJNu4zdskFBEd6dpqu5fO5XHZA63G0H4pP26YkITxHb5nAWketDzrQc0eiQd4nzpAB-lNLNogJBYdxxwI-Q0K0hP1UhBZD4mNjgt1DYgS8
+.spotify.com	TRUE	/	TRUE	1763192294	sp_key	46599ada-34bc-4d87-9880-998983eaed65
+.spotify.com	TRUE	/	TRUE	1763192294	sp_t	ff6184034380a8f7d032c9155dce7b96
+.spotify.com	TRUE	/	TRUE	1747642080	sp_usid	fc6a5cd5-6b98-4893-beb3-6a8d21d0c7a2

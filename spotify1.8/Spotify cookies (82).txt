@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	TRUE	1789482127	__Host-device_id	AQCvivaSeHNBAr81KbhbQtHuLfa3ZpjOmQIDMa3rzd1Z_g9l7E1t_WFhmmLuhVAA9c9l4UEixt84Su05EGCqPjIbOe_7LQ6BDfM
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	__Secure-TPASESSION	AQALbfg0ayfS+nrVaC44QvE/JCA4GTC1oB/9AkGut91JkfhmeNhKwoqVq2mgdx8g/T8K7NXMH5aEMu+7g5FDIGLp6cLWfn+ygsY=
+accounts.spotify.com	FALSE	/	FALSE	-11644473600	sp_t	e6e831bd-7c3b-4888-8700-5f1534b652c7
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	sp_tr	false
+accounts.spotify.com	FALSE	/	TRUE	-11644473600	__Host-CI-STATE	AQADH6DoNYCEIN08PcrqQ_POKEAWc6kl-ZoIVlsgkhM_2Q1Bj2fuEaq1gC7HDe2jqRLhwuTEShSuIIUcq9FZglo-MXd-1K1POq5N2_ttkyQ5J0-B5R_iU7gU6GGAT3FeKAqSJKea_2zEMxsbvkerratI3dKASUd4e-WoD-cEkAvyB5Wg3IY
+accounts.spotify.com	FALSE	/	TRUE	-11644473600	remember	mikaverbunt%40gmail.com
+.spotify.com	TRUE	/	TRUE	1755008803	sp_landing	https%3A%2F%2Fchallenge.spotify.com%2Fc%2F476b3f6c-3c8e-4f53-bf62-0662ccb0120b-4%2F5851a554-2df8-4baa-982a-db65ba14e0bf%2Femail
+.spotify.com	TRUE	/	TRUE	1755008803	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1755008803	sp_new	1
+accounts.spotify.com	FALSE	/	TRUE	1754926104	__Host-sp_csrf_sid	14d6980370224782e3d1d312eca5c9598c1dab4ae42a783a1ca0bcf004eec767
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	csrf_token	AQDWnsPaPaTVHYjkaeDCt1s-O3aZj7ayb70ynxwLS2RqR-HsLCeBUa6jeXXVSX4Kh89rRADyv1QP7nmmDw
+.spotify.com	TRUE	/	TRUE	1786458504	sp_dc	AQClnreJmS3Vq_7nNCD2AhdOk-ntJGsukZvKEIsNF030B4HpqW2C2g7Jg55-TGX7O88iZWRhP-QtV-RjQb8lsGE_NJQOVwr6abMzHhdV8mPp_omcQKlMurBL0UjrabGo13w6r3Fk7fxQVzY20cFQb0q5ZXWh7VgweG06bPQinjlxl8CacaP04yLBdmp_xaWYfDV8B7rbqvQMWU63WZk
+.spotify.com	TRUE	/	TRUE	1786458504	sp_key	3f5bfe41-b19c-4fa7-b577-b3d440e00611
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	sp_sso_csrf_token	013acda71966521e30a1c1182f505cdc1fa1d55ddb31373534393232353034353435

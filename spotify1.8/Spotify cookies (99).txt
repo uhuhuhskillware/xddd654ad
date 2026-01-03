@@ -1,0 +1,12 @@
+accounts.spotify.com	false	/	FALSE	1767003972	__Host-device_id	AQCRIO16Co8uk_ivH03pxbpPDJKPo9OUykIGdLSjAHtafjsEIFYNC06fey7LSNSA1s3VLTZlDjOxrpm1NW48ibg0KnB2kNTjzpk
+.spotify.com	true	/	FALSE	1772738766	sp_dc	AQCIC69BNf4tRcBatcBFMsNVytOiMTXteSR4UBboDUh4L3T5VcE8E5hLBeP3iJ-8W3FqOT6CqUxVjFF4GKkhdXXSuL69zUcbJSHjCiFfEnz97LfqrSmvTN446L0Ij9ib0upEv2U9haebGepv7UakT_8EmECX5LkK_Jawhq5vGh50fHIMeuPWlTvMrhJnSoZvFodHg7RVmZu3lWLk7GM
+.spotify.com	true	/	FALSE	1772738766	sp_key	fdd809dd-d169-41a6-bf70-ba0d6487b109
+.spotify.com	true	/	FALSE	1776970974	sp_m	de-en
+.spotify.com	true	/	FALSE	1788778602	sp_adid	b29b15c1-e611-40f3-a6ea-60dd2505b235
+.spotify.com	true	/	FALSE	1789415893	sp_t	1501979adf65a97c144c828b953f9cb3
+accounts.spotify.com	false	/	FALSE	1767003972	__Host-device_id	AQCRIO16Co8uk_ivH03pxbpPDJKPo9OUykIGdLSjAHtafjsEIFYNC06fey7LSNSA1s3VLTZlDjOxrpm1NW48ibg0KnB2kNTjzpk
+.spotify.com	true	/	FALSE	1772738766	sp_dc	AQCIC69BNf4tRcBatcBFMsNVytOiMTXteSR4UBboDUh4L3T5VcE8E5hLBeP3iJ-8W3FqOT6CqUxVjFF4GKkhdXXSuL69zUcbJSHjCiFfEnz97LfqrSmvTN446L0Ij9ib0upEv2U9haebGepv7UakT_8EmECX5LkK_Jawhq5vGh50fHIMeuPWlTvMrhJnSoZvFodHg7RVmZu3lWLk7GM
+.spotify.com	true	/	FALSE	1772738766	sp_key	fdd809dd-d169-41a6-bf70-ba0d6487b109
+.spotify.com	true	/	FALSE	1776970974	sp_m	de-en
+.spotify.com	true	/	FALSE	1788778602	sp_adid	b29b15c1-e611-40f3-a6ea-60dd2505b235
+.spotify.com	true	/	FALSE	1789415893	sp_t	1501979adf65a97c144c828b953f9cb3

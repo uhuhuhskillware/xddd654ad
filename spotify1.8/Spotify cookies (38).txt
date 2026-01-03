@@ -1,0 +1,13 @@
+.spotify.com	TRUE	/	FALSE	1766043065	_ScCbts	%5B%5D
+.spotify.com	TRUE	/	TRUE	1790267626	sp_dc	AQA-OXZIQh2O2l_gm2kC0FExKA2ebSJGW93sufUV-IpUlx8k5pQ3XV94XcTaHDiVhHQV4DPcorafsP1SucIkiGHk3t6DhhEULkf15Dw1TPGsk71DOfq0MqZTqeTAu2herRse7eKRrD5y8JV30kZJ0TdUEWuzpCIxteQ_5o3ExDGUxsQUBLYkG9_Cnzh3ak4hK-CuLkVuSmtstY89eFk
+.spotify.com	TRUE	/	TRUE	1790267626	sp_key	1bd17f3d-ce36-44af-a5b3-c8a4e0db0ea1
+.spotify.com	TRUE	/	TRUE	1766043065	_cs_mk_ga	0.7333677775366085_1759056423335
+.spotify.com	TRUE	/	TRUE	1766043065	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fee-en%2Faccount%2Foverview%2F%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account
+.spotify.com	TRUE	/	TRUE	1766043065	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
+.spotify.com	TRUE	/	FALSE	1790592591	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+28+2025+13%3A49%3A51+GMT%2B0300+(Eastern+European+Summer+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb88ddec-980f-4595-8466-95925c4bffaf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Cf11%3A1%2Ci00%3A1%2CV2STACK3%3A1%2CV2STACK11%3A1%2CV2STACK20%3A1%2Cm03%3A1&AwaitingReconsent=false&intType=1&geolocation=EE%3B01
+.spotify.com	TRUE	/	FALSE	1793616591	_ga_S35RN5WNT2	GS2.1.s1759056423$o9$g1$t1759056591$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1793134191	_hp5_let.4043975597	1759056591628
+.spotify.com	TRUE	/	TRUE	1793134191	_hp5_meta.4043975597	%7B%22userId%22%3A%224907910634653500%22%2C%22sessionId%22%3A%223745008726611219%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1759056423789%2C%22id%22%3A%223745008726611219%22%2C%22utm%22%3A%7B%22source%22%3A%22spotify%22%2C%22medium%22%3A%22menu%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22your_account%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1759056423789%2C%22id%22%3A%224840101889243356%22%2C%22title%22%3A%22Spotify%22%2C%22url%22%3A%7B%22domain%22%3A%22www.spotify.com%22%2C%22path%22%3A%22%2Fee-en%2Faccount%2Foverview%2F%22%2C%22query%22%3A%22%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Faccounts.spotify.com%2F%22%7D%2C%22identity%22%3A%220088fce7229f38ab6cb0d7bf331ecb43e5f2d0a7073d72982e38bd%22%7D
+.spotify.com	TRUE	/	FALSE	1793188191	_scid_r	Y9LQmZCIqRwVFdx1aQN-9olnnBkoxGzXJPuLRA
+.spotify.com	TRUE	/	FALSE	1788843636	_cs_id	705c4fb4-f34a-af46-c13d-15b0b2baf25a.1754679636.6.1759056596.1759056428.1739197584.1788843636291.1.x
+.spotify.com	TRUE	/	FALSE	1766043065	_cs_s	3.5.U.9.1759058431866

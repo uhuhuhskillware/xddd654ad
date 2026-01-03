@@ -1,0 +1,6 @@
+.spotify.com	TRUE	/	TRUE	1761053360	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D8373a23ff74fac2d7e93097d777e12d3%26device%3Ddesktop
+accounts.spotify.com	FALSE	/	TRUE	1776519299	__Host-device_id	AQAUX0x-yIGv3EqciW-iZwexa_UTzN_BXtm49ozUs7OA1oR4w-iZot9NUQziyaTn98wgVbY9ohyExquLvQlGHKsdRixy8bigeTE
+accounts.spotify.com	FALSE	/	TRUE	1760971086	__Host-sp_csrf_sid	4ffe5f4e5b3226ac0e00f3a4c6450854e336962611a61d012228cea25224123e
+.spotify.com	TRUE	/	TRUE	1776519486	sp_dc	AQBW8-hpexfW3toMyBdgLNfTYsy5-XFoshRVM9gb0-9UnVi6zolqbis76RdMkUnbH84GhVj_InriIB_cGvpOozTpqoTxQZIxkhyvGqe_bDVTG0SYISDY90xoNIh7LCRVMFwyLc17N1UoR4wEXvK54MOTQJqYQQ-b8mFjrAyrCSZ1vXf8I9neEZ-7CMY_2Jg2BIH0lg2hl2krPecDDZN9xd-UjugWLgr8yJYPBqMqGUUUkfM5cDnnJlHVh3BZFT8hvYL7j4o-_BeYt6A
+.spotify.com	TRUE	/	TRUE	1776519486	sp_key	160da69b-881f-4890-939b-ba1c60babc32
+.spotify.com	TRUE	/	TRUE	1776519500	sp_t	8373a23ff74fac2d7e93097d777e12d3

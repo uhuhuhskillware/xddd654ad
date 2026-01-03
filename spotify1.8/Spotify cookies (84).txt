@@ -1,0 +1,11 @@
+.spotify.com	TRUE	/	TRUE	1790865823	sp_m	nl
+.spotify.com	TRUE	/	FALSE	1787841901	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+27+2025+16%3A45%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a921f29b-5d17-42f2-a3d0-549fcb388b8d&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fsupport.spotify.com%2Fnl%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1
+.spotify.com	TRUE	/	TRUE	1788627863	sp_dc	AQCUWl4p5-yd2KOPfiulyJgIKKzUgiQ5xRuMBQngfBcfAC_rpLygGF783Kz2mFp3fjLHO1fRkOgeawLjiTpg1v6nymuCeThxBoA6kJ9Ye7Mhbv_BBi8EXtLxnWOcUyZ0FIEFBdbw_tSv28FiDkqljr2VRFISGwL1UgRN_M0b8zoRHVL0C959Cxvfr518XxgfNOuwhxc9RZmvmVW0Xd8
+.spotify.com	TRUE	/	TRUE	1788627863	sp_key	782ddf32-f037-43d2-962f-d70df7a1fe4b
+.spotify.com	TRUE	/	TRUE	1788627868	sp_t	d707874439e5a207538488b3e370ab75
+accounts.spotify.com	FALSE	/	TRUE	1790865824	__Host-device_id	AQB0YG1W9ZcaWonA-EMpSf1SNlm0dag_5zWyHsykFomV3zAPs0yxcoINngHEvP8neGf_rMAd-Bqtj9YJpCnu-iGDtDW-DdZZwS0
+.spotify.com	TRUE	/	TRUE	1790865823	sp_m	nl
+.spotify.com	TRUE	/	FALSE	1787841901	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+27+2025+16%3A45%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a921f29b-5d17-42f2-a3d0-549fcb388b8d&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fsupport.spotify.com%2Fnl%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1
+.spotify.com	TRUE	/	TRUE	1788627863	sp_dc	AQCUWl4p5-yd2KOPfiulyJgIKKzUgiQ5xRuMBQngfBcfAC_rpLygGF783Kz2mFp3fjLHO1fRkOgeawLjiTpg1v6nymuCeThxBoA6kJ9Ye7Mhbv_BBi8EXtLxnWOcUyZ0FIEFBdbw_tSv28FiDkqljr2VRFISGwL1UgRN_M0b8zoRHVL0C959Cxvfr518XxgfNOuwhxc9RZmvmVW0Xd8
+.spotify.com	TRUE	/	TRUE	1788627863	sp_key	782ddf32-f037-43d2-962f-d70df7a1fe4b
+.spotify.com	TRUE	/	TRUE	1788627868	sp_t	d707874439e5a207538488b3e370ab75

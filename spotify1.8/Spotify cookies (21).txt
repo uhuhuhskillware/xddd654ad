@@ -1,0 +1,11 @@
+accounts.spotify.com	FALSE	/	TRUE	1792849580	__Host-device_id	AQCKp1AAxP8UqspzOJiLkRKIZKeMAwYiysaEQ5G8VjtmexAAEVrdzOGGEZ92-y0hEQZ4x-VxyC1MhaEH54rsarBBwBlOAwVDOYY
+.spotify.com	TRUE	/	TRUE	1792849577	sp_m	sg-en
+.spotify.com	TRUE	/	FALSE	1789825615	OptanonAlertBoxClosed	2025-09-19T13:46:55.672Z
+.spotify.com	TRUE	/	TRUE	1789825607	sp_dc	AQCb6hVFSN0MlG-pOC-Ca06ZEJt9q2jIqmB910XvLM2SKPn_gq3AGj1YVqb3L_wsQO09TzhfY1wMustp8NcVrrC9-7jAkYfACOML9BVVC9GM5YWQ9mIYzvQBXMAJtYOWFMlUj0I8BkuotwNhzma_XZdUdDT7b7dAJedqaZTOVto6LYTv72isMptdpPi5zJPjCDLSE96Xsm1pi2xL3U8
+.spotify.com	TRUE	/	TRUE	1789825607	sp_key	e72fcf29-c49f-4dbd-8815-f6337dccbe6d
+.spotify.com	TRUE	/	FALSE	1790438367	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+26+2025+23%3A59%3A27+GMT%2B0800+(Singapore+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=SG%3B
+.spotify.com	TRUE	/	FALSE	1793462369	_ga	GA1.2.1652770266.1758289575
+.spotify.com	TRUE	/	FALSE	1793462369	_ga_BMC5VGR8YS	GS2.2.s1758902368$o3$g1$t1758902369$j59$l0$h0
+.spotify.com	TRUE	/	TRUE	1790438368	sp_adid	1d15f598-a5f3-401b-b6c8-0cac414a86b4
+.spotify.com	TRUE	/	FALSE	1793462417	_ga_ZWG1NSHWD8	GS2.1.s1758902367$o3$g1$t1758902417$j10$l0$h0
+.spotify.com	TRUE	/	TRUE	1791122683	sp_t	e7917c65b23400935b936ed04147be60

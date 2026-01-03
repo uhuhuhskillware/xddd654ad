@@ -1,0 +1,8 @@
+.spotify.com	TRUE	/	TRUE	1791769319	sp_dc	AQBpDX9Q7qmsPNVR_hXH7g86PRXvS2mV6oOy8ZwZSthCot3qESXhyUSJASDJq6j6JzxF-DV2zdAOujRc_kmtNbLe95_S-k9qfTZXdCZ1sZHirqn2KVR1oY8pxFJ_2P7kymLs-f-d23ebkWRg_u7LG83LXpqbZjiGQnnMMnLtg4Lm--ie9zfqTWs9uhYjHoUqrEOFq2CCvGI_VFylLAuDYczc9A85cDoz9QXHG4DrXc4DHg4CdR9AipS49fHsoVYjSDTU3fokLnDrFQ
+.spotify.com	TRUE	/	TRUE	1791769319	sp_key	d0b1ba00-70d7-421b-9eee-b346f5c70f12
+.spotify.com	TRUE	/	TRUE	1766260964	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D0be226346dec8ecd4c3971048ffd3d66%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1791769327	sp_t	0be226346dec8ecd4c3971048ffd3d66
+.spotify.com	TRUE	/	TRUE	1791769319	sp_dc	AQBpDX9Q7qmsPNVR_hXH7g86PRXvS2mV6oOy8ZwZSthCot3qESXhyUSJASDJq6j6JzxF-DV2zdAOujRc_kmtNbLe95_S-k9qfTZXdCZ1sZHirqn2KVR1oY8pxFJ_2P7kymLs-f-d23ebkWRg_u7LG83LXpqbZjiGQnnMMnLtg4Lm--ie9zfqTWs9uhYjHoUqrEOFq2CCvGI_VFylLAuDYczc9A85cDoz9QXHG4DrXc4DHg4CdR9AipS49fHsoVYjSDTU3fokLnDrFQ
+.spotify.com	TRUE	/	TRUE	1791769319	sp_key	d0b1ba00-70d7-421b-9eee-b346f5c70f12
+.spotify.com	TRUE	/	TRUE	1766308769	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D0be226346dec8ecd4c3971048ffd3d66%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1791769327	sp_t	0be226346dec8ecd4c3971048ffd3d66

@@ -1,0 +1,10 @@
+accounts.spotify.com	false	/	FALSE	1774388460	__Host-device_id	AQAzA5XVxUw0DnLmUItzB2ejyfYvffzrcKN5QNImFdi3_s90Z_pQ1p0fBhqzluwXtAeQUiC0qs8lBO_mld0YGZfdp0g2-nG0v44
+.spotify.com	true	/	FALSE	1774388478	sp_dc	AQCIjD3Jg027UL6RQrvAwyLH4vtrgRWGpsJLtRAtKIgRrZASbeL_kvS9zjT-FuLUX9O2-KdjJD410bV5vLnGjNYhJb3BcxqYk-XwAqfyHu5xsAv6LOfqRwPBHC56gyS-M3-A2Gpn_zi-NIoHMBW8eC-NLMDbW7PkQ2SEjrPxQGkX3pTmx5r9Vs9XNy-gLOZbRsOiI28Df4IGn3sANIg
+.spotify.com	true	/	FALSE	1774388478	sp_key	2eb4cd79-f30c-4bed-8fbd-266b44067b73
+.spotify.com	true	/	FALSE	1762360917	sp_landing	https%3A%2F%2Fopen.spotify.com%2Falbum%2F0Glnb7gStwWKEvNtx3Egf4%3Fsp_cid%3D447bfbf013c1d1bf9819feac757862eb%26device%3Ddesktop%26si%3Do7Tt0PFyRdKjv2IUP9ab6Q
+.spotify.com	true	/	FALSE	1777826518	sp_t	447bfbf013c1d1bf9819feac757862eb
+accounts.spotify.com	false	/	FALSE	1774388460	__Host-device_id	AQAzA5XVxUw0DnLmUItzB2ejyfYvffzrcKN5QNImFdi3_s90Z_pQ1p0fBhqzluwXtAeQUiC0qs8lBO_mld0YGZfdp0g2-nG0v44
+.spotify.com	true	/	FALSE	1774388478	sp_dc	AQCIjD3Jg027UL6RQrvAwyLH4vtrgRWGpsJLtRAtKIgRrZASbeL_kvS9zjT-FuLUX9O2-KdjJD410bV5vLnGjNYhJb3BcxqYk-XwAqfyHu5xsAv6LOfqRwPBHC56gyS-M3-A2Gpn_zi-NIoHMBW8eC-NLMDbW7PkQ2SEjrPxQGkX3pTmx5r9Vs9XNy-gLOZbRsOiI28Df4IGn3sANIg
+.spotify.com	true	/	FALSE	1774388478	sp_key	2eb4cd79-f30c-4bed-8fbd-266b44067b73
+.spotify.com	true	/	FALSE	1762360917	sp_landing	https%3A%2F%2Fopen.spotify.com%2Falbum%2F0Glnb7gStwWKEvNtx3Egf4%3Fsp_cid%3D447bfbf013c1d1bf9819feac757862eb%26device%3Ddesktop%26si%3Do7Tt0PFyRdKjv2IUP9ab6Q
+.spotify.com	true	/	FALSE	1777826518	sp_t	447bfbf013c1d1bf9819feac757862eb

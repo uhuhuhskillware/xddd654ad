@@ -1,0 +1,14 @@
+.spotify.com	TRUE	/	TRUE	1759597960	_cs_mk_ga	0.6744753105085187_1759596160331
+.spotify.com	TRUE	/	FALSE	1767372161	_gcl_au	1.1.814022774.1759596161
+.spotify.com	TRUE	/	TRUE	1759682557	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3Da957d1508dd9165d4e199cf3444f170a%26device%3Ddesktop
+accounts.spotify.com	FALSE	/	TRUE	1794156408	__Host-device_id	AQDsIAvoPiapDQ1KvTEWr4sOyqhXIvaoqNVZleNK0-sS01DT7Wu2MkYBHr4mCozc41XdJOwr-Tqkw81BLC62ztYyDAPn95rTiZ4
+.spotify.com	TRUE	/	FALSE	1791132447	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+05+2025+00%3A47%3A27+GMT%2B0800+(China+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
+accounts.spotify.com	FALSE	/	TRUE	1759600032	__Host-sp_csrf_sid	444cf68e8d109e9cfa8418f86d3a71f6657219521ecb6b0bca6bd7c724c130d0
+.spotify.com	TRUE	/	FALSE	1794156446	_ga	GA1.2.1659195933.1759596161
+.spotify.com	TRUE	/	FALSE	1794156447	_ga_BMC5VGR8YS	GS2.2.s1759596160$o1$g1$t1759596447$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1794156446	_ga_ZWG1NSHWD8	GS2.1.s1759596160$o1$g1$t1759596446$j59$l0$h0
+.spotify.com	TRUE	/	FALSE	1759682846	_gid	GA1.2.40766548.1759596161
+.spotify.com	TRUE	/	TRUE	1791132446	sp_adid	bd2b21fb-bdec-4d8a-b830-dad8ef3aa49a
+.spotify.com	TRUE	/	TRUE	1791132432	sp_dc	AQDeREB4QT7JRJtNvaOfchwHnnRk5qoPKcNJUv7LeoBjCz5ZnRX0NAxDLac4claSKav4XNg4wipwHrALWPDFS-qz8aGqc1-EXXXP5ub8GPTVGAjD02Gpd6ivV5TAkYZFk64ZIx6zhael3kok72Imw9hLio2xSAYURVakt49dlYWziebEdfDo-8Ip56asBhsMFOABI8Gx68FDVpKFfQ
+.spotify.com	TRUE	/	TRUE	1791132432	sp_key	a9b8f329-fa15-4fca-8603-860ab1532006
+.spotify.com	TRUE	/	TRUE	1791132531	sp_t	a957d1508dd9165d4e199cf3444f170a

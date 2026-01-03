@@ -1,0 +1,14 @@
+accounts.spotify.com	false	/	FALSE	1776100857	__Host-device_id	AQBJMBq9gkdjWOnv_khR_l8mlkQBmxRhQuBYqn4aSeZiyYMOQEtt5r3TMb9jVO2XCthH5qNayfZ7aSxSsTTRDT9ToN201o5IS2I
+spotify.link	false	/	FALSE	1777344444	_s	r7%2FujHCHiYyiM4bMK%2FFkYg4nxMalWZWuoED9VDtpZ9quixVIq%2Ftg3sW%2BXOoiVWcd
+.spotify.com	true	/	FALSE	1777529840	sp_dc	AQBFweJxSKj4u5VcUBpEkbYv54mxNC7iQGZGVVaqrntG2S7sdxzKkYm8lNEGdd9bXzYGwtGo_1NzKJhVmDqiz8UHfWotUrw6bSlOWnpTh9LpFgyQdIIXZtHwVfGMOrikgKOaZget-YANdBSMyY9L9f-HY3j-yioYi5o6zXPMGzNI2S8up16q0c2ZLDccdNRkiIL9_Acdz3LBpLQaDwA
+.spotify.com	true	/	FALSE	1777529840	sp_key	c0cead9b-8c59-456a-8eda-928d2f14b25d
+artists.spotify.com	false	/	FALSE	1778407506	muxData	mux_viewer_id=ebae6032-ed57-4901-9cdc-a1caf46c55f2&msn=0.9746005722633706&sid=ce353a40-c137-425c-877c-3e36f617d43c&sst=1762855502681&sex=1762857006205
+.spotify.com	true	/	FALSE	1763071165	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D921b06f0dc9705da452f1c416dde44e0%26device%3Ddesktop
+.spotify.com	true	/	FALSE	1778536766	sp_t	921b06f0dc9705da452f1c416dde44e0
+accounts.spotify.com	false	/	FALSE	1776100857	__Host-device_id	AQBJMBq9gkdjWOnv_khR_l8mlkQBmxRhQuBYqn4aSeZiyYMOQEtt5r3TMb9jVO2XCthH5qNayfZ7aSxSsTTRDT9ToN201o5IS2I
+spotify.link	false	/	FALSE	1777344444	_s	r7%2FujHCHiYyiM4bMK%2FFkYg4nxMalWZWuoED9VDtpZ9quixVIq%2Ftg3sW%2BXOoiVWcd
+.spotify.com	true	/	FALSE	1777529840	sp_dc	AQBFweJxSKj4u5VcUBpEkbYv54mxNC7iQGZGVVaqrntG2S7sdxzKkYm8lNEGdd9bXzYGwtGo_1NzKJhVmDqiz8UHfWotUrw6bSlOWnpTh9LpFgyQdIIXZtHwVfGMOrikgKOaZget-YANdBSMyY9L9f-HY3j-yioYi5o6zXPMGzNI2S8up16q0c2ZLDccdNRkiIL9_Acdz3LBpLQaDwA
+.spotify.com	true	/	FALSE	1777529840	sp_key	c0cead9b-8c59-456a-8eda-928d2f14b25d
+artists.spotify.com	false	/	FALSE	1778407506	muxData	mux_viewer_id=ebae6032-ed57-4901-9cdc-a1caf46c55f2&msn=0.9746005722633706&sid=ce353a40-c137-425c-877c-3e36f617d43c&sst=1762855502681&sex=1762857006205
+.spotify.com	true	/	FALSE	1763071165	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D921b06f0dc9705da452f1c416dde44e0%26device%3Ddesktop
+.spotify.com	true	/	FALSE	1778536766	sp_t	921b06f0dc9705da452f1c416dde44e0

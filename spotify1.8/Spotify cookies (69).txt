@@ -1,0 +1,7 @@
+.spotify.com	TRUE	/	FALSE	1792094405	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+15+2025+22%3A00%3A05+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1807356d-48aa-4b0a-807a-352633e740b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1792094405	sp_adid	b779323e-f409-4f10-86e5-f4fd27220d81
+.spotify.com	TRUE	/	TRUE	1795118402	sp_m	fr
+.spotify.com	TRUE	/	TRUE	1792094524	sp_dc	AQCxUql20M2azkPtwyL3ym-zCTsfUmD9gZxKYeP3gTiSV4n17VXz2xnjNpJYNYJkQJx_4R3MKGI_3vE6ZsbVIXLFZMdLdQdiGPIzdGYLSWbxw7Jxf7HOP6ohdbxMKOx7d8qlpQRZoVoiR8tzUd6eT87Watuc--6RXYTDVN-AjP0T50xRVMtybpNCA_xLuXi3q-12-iPkur_YaZipubM
+.spotify.com	TRUE	/	TRUE	1792094524	sp_key	842494ca-7e4d-468b-b2a2-f433d29be106
+.spotify.com	TRUE	/	TRUE	1792094526	sp_t	cdb9717c-3324-47cc-9883-f0e1e357b41b
+.spotify.com	TRUE	/	TRUE	1765743571	sp_gaid	0088fcfba425d31e331e9bf004fac0283371c034d088861bce5a80

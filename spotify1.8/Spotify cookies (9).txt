@@ -1,0 +1,13 @@
+accounts.spotify.com	FALSE	/	TRUE	1788593016	__Host-device_id	AQA6QG9f_qX0SK2ASXnWXNH2mNmP7VckR3iPVHZM4xPlDLh4l3tUfm7SVHyLuHA2T0sllmL5k57l_t75VkxoUAkntbuqn5I33lE
+.spotify.com	TRUE	/	TRUE	1785569055	sp_key	ac9c90ea-4a4d-4b2c-a099-93cd84e18435
+.spotify.com	TRUE	/	TRUE	1785569055	sp_dc	AQBOwk_InRqZ_IdDglIDEnR57DQWmZDtl_zx0Ap7U60mwniJfAedEFIw3ofKtZybhy8Tf0BtUAkV8DfwWNdTrqOWNtgu2ZxotHKOG7IenWW1ep_0MfgmAXqztZDjQf5vQ5UD61fV_h55B5SrETUSlv9_eXENptYu9Voo60yaCkvE6AXD14fuLCAw0XLz9d6SYxettBylhbV-nS5z4TE
+.spotify.com	TRUE	/	FALSE	1785569069	OptanonAlertBoxClosed	2025-08-01T07:24:29.720Z
+.spotify.com	TRUE	/	FALSE	1793555065	_ga	GA1.1.1298396460.1754033013
+.spotify.com	TRUE	/	FALSE	1790531065	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+27+2025+14%3A44%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BSP
+.spotify.com	TRUE	/	TRUE	1758996864	_cs_mk_ga	0.4547279989792855_1758995064867
+.spotify.com	TRUE	/	FALSE	1793555065	_ga_BMC5VGR8YS	GS2.2.s1758995065$o6$g0$t1758995065$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1759081465	_gid	GA1.2.1000139311.1758995065
+.spotify.com	TRUE	/	FALSE	1793555065	_ga_ZWG1NSHWD8	GS2.1.s1758995065$o6$g0$t1758995065$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1790531060	sp_t	b41a13cd6c6b48903f4603090f22f595
+.spotify.com	TRUE	/	TRUE	1790531065	sp_adid	8f9dbe64-1d4f-4cbe-85a5-1c2deb932308
+.spotify.com	TRUE	/	TRUE	1759081460	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fcollection%2Ftracks%3Fsp_cid%3Db41a13cd6c6b48903f4603090f22f595%26device%3Ddesktop
