@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	TRUE	1781221036	at-main-av	Atza|IwEBIPhdwVCdk9AGtB_WS1alNpHWp8e2F4XIoGJdsTnw4mlvWncjE3R38MS7hig4zF0nYAppD83HkL8ovVR7c-BlyCbS7jA4OmLO3DBACy6dGhxUtDJT_OUmkSg1cPUEl5IWjm8fH27T3tKDs-p5-8hMYymyQ3OfdvFkZzzzclxt-7fIYnVC1s6MltGOnMpxyREdun24BeGZplFgbhaD0G64AhXxSHmQorMoegeflelRsqUttA
+.primevideo.com	TRUE	/	FALSE	1781221037	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1781221037	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1781221036	sess-at-main-av	"qcbv/0XaIy/jGegJRe7tdf4zXJlXsiBt53aCk6cLQiQ="
+.primevideo.com	TRUE	/	TRUE	1781221037	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1781221037	ubid-main-av	134-9226695-7833555
+.primevideo.com	TRUE	/	TRUE	1768955868	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTNBMUFLMDA0ODlWUyZ0aW1lc3RhbXA9MTc2NjM2Mzg3MTMzNyZ2ZXJzaW9uPXYx.g_A4ezzQt6ZrZCp3IrGvoL0IRFjal3ozT5CMUBwpWo87AAAAAQAAAABpSJLfcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+www.primevideo.com	FALSE	/	FALSE	1796609270	csm-hit	tb:894BE0QFW3W6VSN2BFMG+s-9P1G6S5BBBJ9X773W9M2|1766369270865&t:1766369270865&adb:adblk_yes
+.primevideo.com	TRUE	/	FALSE	1797909542	av-timezone	America/Santiago
+.primevideo.com	TRUE	/	TRUE	1800933541	session-id	138-0563571-3418810
+.primevideo.com	TRUE	/	TRUE	1797909541	session-token	"rd/evUa//fu4XcJOtHm8+UAuw2/+NK6cdZWNULseJ8PtoydRF1m3arE5WF0acxZaXGqb4ZBBZmLxVWdcLJvPtmyKGnv1U8ji0VAnebPOFZhL9FEz3auHvAyo38Y8wLOmcHjOV/ZIAjDeQEN1DokqnVRr9H6hXqgYaVpVQovdNanBagEGKVYQSp3F+rnQB6QQEaEOrrsc/g7xs9fbFUjbNfzu6vbPssxzld1Tghw5QLAdlD4ozfKrnCkpCqSJebW6ILc9d90FEQC0210PP8qOWi0M7obOaEOBlcIbkOvc4vH0n0dcPpIzdznvq5q9nAL2ZpizdUMyomye3lxdk+3EqjNi5QCRYYy+l3ENw8aSOCN3pWuUEYUcdPCEYqrtA2g5KfUR52V9w5g="
+.primevideo.com	TRUE	/	TRUE	1797909541	x-main-av	8uGADJ70FZ3MC4MM7T8Cz6UIPmi8uakkIlK7NI1XjYtHjE14XUs08NzwE87AyMmk

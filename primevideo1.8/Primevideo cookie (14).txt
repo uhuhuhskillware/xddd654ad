@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	TRUE	1792909255	at-main-av	Atza|IwEBIESYMVZyUS0LGDwcMK3qdajCGaGYgqCBM5jH1zwhSaRWSL0Q-ikT0DuB30_5rB-oq0c9cn7bzAFzVcVRes39BdMmb69QqRo65dNZdscDu3_nwF__UpQzVENc8Vm7n484K8enN-RQ_zOVa2uoGM8vY_89-5HnXd8rrwwccYFk2yX6bQX-HHc6F9GfsLYr_PNiLb4VbenKH9CYB5v01LwKUgLq6QTaa5q74IE4FRjy0FjvgP8iv_t0eaLMcCod013zpFk
+.primevideo.com	TRUE	/	TRUE	1763965255	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTJZSDdEMFk5UkxNSFImdGltZXN0YW1wPTE3NjEzNzMyNTcyNTQmdmVyc2lvbj12MQ.g5ESzklaP05Qjgs78iQWLQdaEm-haIHo2sZaN6j8bgJ3AAAAAQAAAABo_GxJcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+.primevideo.com	TRUE	/	FALSE	1792909256	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1792909256	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1792909255	sess-at-main-av	x095wwK37WYaybovpxYZAEFwM9LY/Np8rAFfSZ8ifdk=
+.primevideo.com	TRUE	/	TRUE	1792909256	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1792909256	ubid-main-av	261-1249818-9149620
+www.primevideo.com	FALSE	/	FALSE	1791617956	csm-hit	tb:1YZ10J25P3DBG5TJYTN6+s-J9R0VDWKPHDPMCQWRNFW|1761377956860&t:1761377956860&adb:adblk_yes
+.primevideo.com	TRUE	/	TRUE	1792913943	session-token	"ewt5KsGa+4nt0XUn7h6GVzw5BgiFakipEpKl6LG7yYUljuUm7gj912ars666ne4TU2RaIquHYOROOZXtocx+Flsutd1Z/e0JFWXdeJDnY5JGAnqj8Rd7kq2peicUOy7rr1TWX1pV1zBw4lp2VpdBjYNfyM8TvastZoiwZE19h07LvBRzg8wJFKlnTB8uyvRls3e1RpLgHnNYVyzg8azlWAf7OkjMoqjUNm7AoO2hrPMfhVYy8Z2+bmtfa4UgrsvDiSCBHrl0mXCe1hSdFUFU6Nxp23U7LcAzZrlVvPn9N4ZSJfdvfxLe4/gO1MiUzAzSN8a1enfjs/RKelALcpBxTZ5VJSkqECxahKRGd7UNMDSRoLWcgJuuZVi1TLhKN4RhYKC9I3VX710="
+.primevideo.com	TRUE	/	TRUE	1792913943	x-main-av	"4hpQKvaD0mqn0dbdinEQ1X5ZAnFpJ@p2awQjQgTGArI5HSw6E2v8IscPr52jRuql"
+.primevideo.com	TRUE	/	FALSE	1792914002	av-timezone	Asia/Calcutta
+.primevideo.com	TRUE	/	TRUE	1795937998	session-id	257-7890575-5551031

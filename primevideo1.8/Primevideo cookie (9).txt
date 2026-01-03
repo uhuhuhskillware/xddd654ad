@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	FALSE	1780515366	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1780515366	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1780515366	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1780515366	ubid-main-av	259-3360817-0795460
+.primevideo.com	TRUE	/	TRUE	1793391883	at-main-av	Atza|gQAFZK4WAwEBApabKVQc3sug1jDETyEdfbjSAV3kSyOMeuu7Rj5feWWAt_p-lB-wOBVPxI1hPtKBc3ML5LgoPkbVTBBUDuH2T9brUMTrpddlTL_h1ScGNhiptEmle7QrXMbdDqDDjlLmS57BdDyr34j-jQhRXXcn9Ss85ycjJTtJrfMANd5Sf3SK_wkkB6NCOXl5XJuJ2DdZ5byQZspg01r0lEDETWtXp4ruwYXUN8oMWndRjUD_CTRlAPhS2IkjC43_FLMlVjWyy-iuGoIJXoutzzaze3Jfj5w1YzjRmW3eTVfaMgV42_entU5s-TXldvy6fVgXjMYoPjh_h5fR7Vzoi2wb5delSBGmmhk99blVpt3FPMH2iFLtRFo0aSi9d5LEDoRJCi5oi4KCCkBLvsTq79nuQ_nO06qv7IRCZuC9IelfWjt303_e5k6XkpbwQz9JvJE_ie5ADpYOwrtqD607IxmPpwG4sqTlPq-1
+.primevideo.com	TRUE	/	TRUE	1793391883	sess-at-main-av	Jt1RB6eiuUHQ1WdvvBjhzsXy3sucMoanijDUW1CUfpc=
+.primevideo.com	TRUE	/	TRUE	1766490538	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTNPSlFCSVlVR01XT0QmdGltZXN0YW1wPTE3NjM4OTg1NDE2NDAmdmVyc2lvbj12MQ.gx6ONxrKXClTNsqt700VBljfvzyUHw5XqPUOMs3ynoAlAAAAAQAAAABpIvStcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+.primevideo.com	TRUE	/	TRUE	1798459387	session-id	260-8091239-6928363
+.primevideo.com	TRUE	/	TRUE	1795435386	session-token	"0d9OpEzTf53K/Zdy9SY2kuNI1LPQrG/2gUGrbSFl9Qv9nvP8gLwAUvfICWWoc3AGVLn7fr977wMbkynkZs3088vZx3uvwuXsY8WI2sBWOL6sC40HBjrs8+AdKlJI+tvnFMg0bvWsXoOkPVAGtevi8F42OtUOiFXDBlU6vdvaLUKIcryrWOU+jT6GG2skeye1zIJrsNqUhXxO44n7wULRsMQ9yGgIsLBZ9ZvmqvvO4iY+MPt4yNL6PylFyHGyQReYIYitoqRj5zYWIid/2gqk35M5OvJ/rp91vONqwdq/7T+7tL4YPFazKAK2zo+xAs4E1Xl8TqF15yrBBKxB2DOpmH+UFBgxobe91CJAwTJcg+UVM5s8/5pmw+m/fQqmQOEADkg0hnnvOLVpGF4qfGCMtKhSfWBUnu+ppyurzavnohn1W9P5YipV2g=="
+.primevideo.com	TRUE	/	TRUE	1795435386	x-main-av	"X@xvfhHn3lXPptFsBUH8VH4bVGLePRgWVPyRqvZ9Ee54idXhXwiUEloRx5lvBq2z"
+.primevideo.com	TRUE	/	FALSE	1795461337	av-timezone	Europe/Copenhagen
+www.primevideo.com	FALSE	/	FALSE	1794165336	csm-hit	tb:V72NK8413X432EH7K0V1+s-V72NK8413X432EH7K0V1|1763925336385&t:1763925336385&adb:adblk_yes

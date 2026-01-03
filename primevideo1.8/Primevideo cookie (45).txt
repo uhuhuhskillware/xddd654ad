@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	FALSE	1796742736	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1796742736	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1796742736	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1796742736	ubid-main-av	260-2993981-0460116
+.primevideo.com	TRUE	/	TRUE	1796742755	at-main-av	Atza|gQA9PUjDAwEBAolrUPTAmIwnIMsjvCAza0_kwGf9PrYhG2gO-LkQ1bjzbT55FSnbICdleXErpoIBUPiQIQ7ymol3x-BUa--LoiyozTb6j-Ra8Pcbriges3NtIqyQSTNKkICFcs_lUnuhCBHlZvTUbrwlgoIxgLZtOnvsCC1tJOiPgR-25UtISCKBy-DTyleigvVFq9c_2plFbQ2SzgxwvjtuA13FLaW8zEcL7i1qkzbUjRhXXuK8zM5fnQlqx3wfrP67WbWyRCeha2MqQFP80KPPhMVQXMbJe0Vzs4vnDx-xuPWSEWJiRUNM1NtjtRTKDcZ3lD6l3QJy6aGwh-jyN-iPTLifXfRO575aFWcFoRDKDOB_vUD-9HqIz-kvpxf6_B6sQQ4qhonczz8hWsoORmWqzhEWJ3Sr1w1A70o0QBzgJkJ23kezGt9Cy3e72zD83h1hRyRxqLCmgfD_O84_5I4CXpSGGVMTtB8xmvoSE8Ue1xiWZAdY8stNNg
+.primevideo.com	TRUE	/	TRUE	1796742755	sess-at-main-av	RPjJBTewG3bAjUAoDb3+I9ZMklRFzxtOim+f2tUAS8s=
+.primevideo.com	TRUE	/	TRUE	1769366925	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQVFBVk5OU1pUSEVUUyZ0aW1lc3RhbXA9MTc2Njc3NDkyNTk0NiZ2ZXJzaW9uPXYx.gyTtEJI60T5N2P2CD-cEMPfTIH1sPuYc65TUM_lL_hSZAAAAAQAAAABpTtiNcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+www.primevideo.com	FALSE	/	FALSE	1797166346	csm-hit	tb:31DADVEFX31VRRXFSQQS+s-31DADVEFX31VRRXFSQQS|1766926346728&t:1766926346728&adb:adblk_no
+.primevideo.com	TRUE	/	TRUE	1798462239	x-main-av	"uG4X3uh4lo8dtzsjIhoqIqlXL1dHxH3dIKHM9Hg3F?6ktEbDw0tSKEbjqdld3lAX"
+.primevideo.com	TRUE	/	TRUE	1798462239	session-token	"HOKcJRu34hBftfvHKnos3Uw03ejOKkZD84fL7m9D4gRt2n9UsBeGhEuRUEDyRHbWblq/m91+9nzWgKqRozDtmHvZ80mzwj9Oysur3yX800O+vy2Sy7JTKfz+th5JiJtipAnYWDAlyHAwcfk6mwNLxKwLBl2o5xZBM8YTG8JYpTkSfwI/nRXJAVAOLp1oTHLjdnDhQ8+1GPq0dmxU32DZ3sZR9z7jsmAzDZGXT5IrxWp4KyVNlxsSZzrdI4fldR3t24CRAs1vKwfq5Kjb2gJ3tMLgaGcehztQq/5slODN7GoFKmEAjbgvtLoIIgBACEDFwUG+h9cBL+p6LFzLinJZ8zPoe0n5iDg0ZJV4w1nl3jk+ugnreIL8dvvhzJ/KUtE2kBngxyoROC9TzgNME3AHYyznm83XSxgF4xpOer+Hx3ZgNl8Z4kWS4g=="
+.primevideo.com	TRUE	/	FALSE	1798462543	av-timezone	Asia/Calcutta
+.primevideo.com	TRUE	/	TRUE	1801486542	session-id	257-1456854-7484305

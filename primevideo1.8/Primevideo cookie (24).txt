@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	FALSE	1789119787	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1789119787	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1789119787	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1789119787	ubid-main-av	260-7162413-5976817
+.primevideo.com	TRUE	/	TRUE	1793633351	at-main-av	Atza|gQBmsWHfAwEBArBAWLVPEk3viSQQ_iHbnnsEURLcm4yXxY3QIymlOvgX30js73jfUz_4d5apFouBbUkV6iB31HyegHGRcrB5mAE6nOupeRdD0A6cD9zKGav9yQteq5tUxucP04HGiAJJoeZEZ4_CRrD5SfUgd8KqZtTbNPDxqnVTeMn-iq6oAcNZLmL5i808qCGll6i2tGsO4IOzhO4a506Uiyp2RBfRPIudtL9aaTxDbbnxbEm0slcvP74rK6PdZW40DLqJfw6MfWakn0Ckz64jr6qyARTYe9gC4-7e0srnHg-p2gre5fu9QeFi5pZJ8uS-30rZE9t1F1bd7_xFYFxCXhdp4pJXREDzi-7L30ONGkopqkeN6ut5qqzYyNR_2Pm8LFEU-UAroaDp1RTr_FYobv8nHP6Lej3pLbDbgzoy_Y-RXKontYHIDEuygwcOqzhddXS038ERFCYmBRqjpNp7SOwKOBOT
+.primevideo.com	TRUE	/	TRUE	1793633351	sess-at-main-av	KBNzGqG3BYHYcuV0fvdTs2Inq6LB8eYeww8Y6GdxNY0=
+.primevideo.com	TRUE	/	TRUE	1768729061	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQVhJT1JFQThWMzdaQiZ0aW1lc3RhbXA9MTc2NjEzNzA2MTc5OSZ2ZXJzaW9uPXYx.g5FUklKfddN03ZAsXsycLM6GsRU0cSYn4yiVO_v9bvD2AAAAAQAAAABpRRzlcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+www.primevideo.com	FALSE	/	FALSE	1796378008	csm-hit	tb:3HHC8YY3S6XQ0CZ4V1M2+s-HZ7QRQJP03PSW8H7BC0E|1766138008319&t:1766138008319&adb:adblk_no
+.primevideo.com	TRUE	/	FALSE	1797675686	av-timezone	Asia/Calcutta
+.primevideo.com	TRUE	/	TRUE	1800699683	session-id	259-3769960-2696763
+.primevideo.com	TRUE	/	TRUE	1797675683	session-token	"2/aGvVpiNaFGdM/w/xcxkETi39luRxISdxg9NuOlGuRdZLnTVem/z+rhl2bOvifokAQs8Ollm098yZyb0VDWVRLevtXXhKwh0IMMQNv1kfBe+uu+GgBhCaLsjIWF3eg9f+tRmTYBfS2BSl7DjnbC0GYR1ob4t44g7sAHXAACjDTzR9OTC1me9lEHzDhvwsY+XkFMJ6JN7lrugRGRrd1HPmHYzm0wlgKmZPiiU1Btkaf/IFi4s2m+YHQD8T9+kAf6PdxaTWejSviA7YYM2WKmUKUFPK6oLmoervCK5EZV7OggzcwHDQ1oOIBq+fQL/m2zeuU52oeUEFIGE2tmtSBwCZYzH8xvE67bGMdZVNsIoFwb6LL9Wrcu3ZsLCyEFD191qr0Eg77G7Jd/K6Jv9xxpftxHnVgvzlq2+wLvJ60HZfjig+1Frfxdhg=="
+.primevideo.com	TRUE	/	TRUE	1797675683	x-main-av	"ynKcUibeotKJlXdDvCYyLTk@nRPRvYwC0y5BYg@DPhd7OsaY4mvyAtPPuHKTP?VG"

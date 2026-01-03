@@ -1,0 +1,12 @@
+.primevideo.com	TRUE	/	TRUE	1772235338000	session-id	139-9796025-7751504
+.primevideo.com	TRUE	/	TRUE	1772235338000	ubid-main-av	132-3602427-3575739
+.primevideo.com	TRUE	/	TRUE	1772235338000	at-main-av	Atza|IwEBIABAD6A8iAacFktwByXJgvrb3VRdiHkDCmP_5n3dw0H2hrUdTO--DBj7DyIutavDHDr-cR4rINuhB48uzcy_rMcdG2aq9etKZuqAifytwasy2CKwi51_Nvo9omavsrUQevzz3EG-dr3tseWCpvUAp8IwppSiqehFPSLm5-K-TNZexbY2nmXcpBHeQv4k_2V_qXVG7M9-ca1iRWXwLveOzxsAqQ0FMvgw6TEyGxzuDPdEtzg6ou6HsiS0WYLeHIMfkXk
+.primevideo.com	TRUE	/	TRUE	1772235338000	sess-at-main-av	"r/9ZiKh07UO0ziSeuWP60572I3+v7vrmnAzhrhl7354="
+.primevideo.com	TRUE	/	TRUE	1772235338000	session-id-time	2082787201l
+.primevideo.com	TRUE	/	FALSE	1772235338000	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1772235338000	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1743291337000	av-profile	cGlkPWFtem4xLmFjdG9yLnBlcnNvbi5vaWQuQTNMMVdURDdQRU1BOUomdGltZXN0YW1wPTE3NDA2OTkzMzg4MzImdmVyc2lvbj12MQ.g9JseAAA5grrBd-3OVYXHeDuWbyHBKPcwZGufSZ122pqAAAAAQAAAABnwPbKcmF3AAAAAPgWC9WfHH8iB-olH_E9xQ
+.primevideo.com	TRUE	/	TRUE	1772241505000	session-token	"aIC/4r8b5IeQp3dhEOdT119WyZnfuIfmNTVNHRY6VFL9DnkGWq0s4I+vOBZ7f+mz1z3/BXCeYf1aZGph0VLGUzdzlddyZHh1A6g/kH7BO36wuei4OpauI6Lm+e34JyPc+JyoKuEPl/hLaow+T+md3XPbjHa0zheS0m0zbXE06YQJv8aMF9Xle5aUjuO7wLycxQieMaiVx7ghhTp2SHdTnY8OmBTFQ5XdoBOrqn/P35Qm/P+8pPIMxsjqumRle7w5JTujwnpnCzepm2fAYVO9k3H7RQqCVz8KdWjJ+feF1AI5AaNNeb7j/QRmuBASl+xNgExCz5VCxJ+On+qWtOmMCrrwD0M63+ZWplO3tWW0d4r09gnE+3dyCjzGA3eqMNJe5YMidKvw2sk="
+.primevideo.com	TRUE	/	TRUE	1772241505000	x-main-av	"hm9liYgIlOFQWyGf9i8JpdupGgazWu@O4cGwPpw53ZvEhZZiPcH9ul0FfD6fCY7w"
+www.primevideo.com	FALSE	/	FALSE	1770945506000	csm-hit	tb:s-DHE75EV7A3VDKJFE0TRK|1740705506626&t:1740705506648&adb:adblk_no
+.primevideo.com	TRUE	/	FALSE	1772241506000	av-timezone	America/Mexico_City

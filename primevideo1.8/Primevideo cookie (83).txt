@@ -1,0 +1,11 @@
+.primevideo.com	TRUE	/	TRUE	1790874830	at-main-av	Atza|IwEBILbgVYOtUtdgD_bp7cbaWm8agEL5EHAJ9YqmJodWarWT6r2DoBRcExy5UWGZMTPfRm0J8hPFUovbmgvhh1JK73tgSrmOXRS0yE7KsENj_mjQrXEpi4VVmI2o0WjkABwPlG7S_A3Ai824eV2l8J9H1PZjEdXzkJdg0hn8kr01aaft2BN6TlyQXCfk8qZ0JgiIxMJCufviom6yBMsREJ6pcgFKXS86_oOstSgnBHcAG90kUFw1EgwESY7pXGAfyyWiMEY
+.primevideo.com	TRUE	/	FALSE	1790874830	i18n-prefs	USD
+.primevideo.com	TRUE	/	FALSE	1790874830	lc-main-av	en_US
+.primevideo.com	TRUE	/	TRUE	1790874830	sess-at-main-av	iRWvg0LV/ru3X+1tR62eNmPPhaot/MNmpmUmW/KlBgY=
+.primevideo.com	TRUE	/	TRUE	1790874830	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1790874830	ubid-main-av	261-5748584-3171350
+www.primevideo.com	FALSE	/	FALSE	1793989540	csm-hit	adb:adblk_no&t:1763749540618&tb:1HXMC6RPC484B6HDP7KQ+s-1HXMC6RPC484B6HDP7KQ|1763749540618
+.primevideo.com	TRUE	/	FALSE	1795295334	av-timezone	Asia/Calcutta
+.primevideo.com	TRUE	/	TRUE	1798319330	session-id	262-1333813-8407246
+.primevideo.com	TRUE	/	TRUE	1795295330	session-token	"LybcrAFX4iFyMRt83B3AblXMTC8L6dVVm/1pjTSldwMKWE0T8QM2ijWtSQBf5LyXTZuXjqHeDe6ENbOMCC3S8xeheA4mr6+o5abFL1mO1/SErKmdKUmqutBof/MY3wzn6IubsX3k+tPt8iQ8rQANnDSlq2PxxUuawPbfTh/iD2ha4WBhvT8OCdu8wl5iTZrYPyN5xCN3hkiAYjFU/vrIJCpAjit782gaWH+Aq08HcmM1al1tgKjg73ac070Oi8H83eWFwxjD9olZBrtRsjx+DP03y5Ua7wgEdYeTLNZoAbH30eVT3SgtWH6UJbhgYtBVfY6IqUSzcBGs8zSLDSopwZyA4O12k6yGq8ikfYivFn99uhnb3zv4rqOQ8yQ/f+iCWmSgdVaU1NY="
+.primevideo.com	TRUE	/	TRUE	1795295330	x-main-av	HU5haxGFcNFFdkFlta877BIFuXItEcpKdsKm2sWEjJfPVQG8xtii1ciPLcjrzaVI

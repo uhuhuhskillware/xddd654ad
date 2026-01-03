@@ -1,0 +1,7 @@
+.primevideo.com	TRUE	/	TRUE	1776092371	at-main-av	Atza|IwEBIKByQ9vhF-YHcUr1YIxFo9t7VMMd1dQP-FWle8HVYrqhtAruHu0USfIrHxv0iJXCFDdgZSHqzhVMFHSZTdaCirnTHyEonDjFY6ppvJhXpuFJnsrLVmM8sCYcA9JCpTnOJNf7yE_lRBU9h-12W5_chbMxV8CGr7j35_Nbq7bMwpnI3fNt3sCgEfX6b-2-dPHwfE1-vjrDh1KGlIagVVUVdMkMN0F9swJOdNuxUaXos2cXM2lUCSe0dPjTkK9azr1V4fM
+.primevideo.com	TRUE	/	TRUE	1776092371	sess-at-main-av	"ptWVHSIhbjt37bmdfR3k1jDqMG+jNRnoqnJ89N7baps="
+.primevideo.com	TRUE	/	TRUE	1776092372	session-id	358-0942188-3344133
+.primevideo.com	TRUE	/	TRUE	1776092372	session-id-time	2082787201l
+.primevideo.com	TRUE	/	TRUE	1776092372	session-token	"omEFgBlnq8kF6Adv1tnnnD1IdeRvoSTRLeWlbNoY8isB/+WfwESrmzbu/td1wijgJaQU2SYMudfeqsoIzSfakpqGu25UGfCQx13iqpQ21v/O29iYkFOtW8xk7wdXRdJvg2PG8HUWPJphSz4LhseyxLdB56Q7kvIfRblR1GxsryVoYF+4ittfNKbXTe0D4SgNjgRhBfuXCVPouKJi+lHOYzTM8OSVd/z+8golT1CWFWH5bEj0cOoK6fsbz2jNWf+FjVua1GQjE2WKfXgfAHnYBseLO/dAFAdPB2ZpolipQJ/GWrurBFjgf3OtH0T5TIjDHVD0vYmiSSx6FjCFaHldinMCj/VfkC27snym3jdHviD2DZ1K5drfNg=="
+.primevideo.com	TRUE	/	TRUE	1776092372	ubid-main-av	358-6551643-1615627
+.primevideo.com	TRUE	/	TRUE	1776092372	x-main-av	"48C@uUvwtRKttONLhRSOOYzaW0IRHqF1vshRntLPl5erm2@JpkO2VlOsRk5B?GuC"
