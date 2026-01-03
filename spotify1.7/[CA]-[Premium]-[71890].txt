@@ -1,8 +1,0 @@
-accounts.spotify.com	false	/	FALSE	1786903877	__Host-device_id	AQBfl8Ory6FEj_-cox9mc1p_coWp0RUH0-8KFlVUzlJ34svRTsA3oDjYa3diMaqm6bZakbrwjqcUL5MVjq7_EDU4HPiDYVM_RJE
-.spotify.com	true	/	FALSE	1783879933	OptanonAlertBoxClosed	2025-07-12T18:12:13.611Z
-.spotify.com	true	/	FALSE	1786903982	sp_m	ca-en
-payments.spotify.com	false	/	FALSE	1783880613	ravelinDeviceId	rjs-495a821b-709f-4127-baf0-4ed1432b3ff9
-.spotify.com	true	/	FALSE	1783880975	sp_dc	AQCgvJYptQvOdh0cOrPFuMnrkiHw5qXrmVUpwk2NQfjL9QmWjmAYzyFv5AYnlsiNrfyju6CnrNDxLkcfcqsJT8KtEA0Q0yT9ZOdOK6sSQPWIVAJHiI2MrvyD2hneX4X0fk56TQwy2G6dZwG01auRC-oG8vosx-uKSwjeNoIYr8GwuZYA1VKnm7dzVUVYCydI2wY8bGY59_x4wfmB9V0
-.spotify.com	true	/	FALSE	1783880975	sp_key	35107e0c-c27e-43f0-8d16-c8b2d455fa09
-.spotify.com	true	/	FALSE	1783880991	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jul+12+2025+14%3A29%3A51+GMT-0400+(GMT-04%3A00)&version=202411.2.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=CA%3BON&isGpcEnabled=0&browserGpcFlag=0
-.spotify.com	true	/	FALSE	1783880989	sp_t	05bd229528cf8574478ba5cead3a1206

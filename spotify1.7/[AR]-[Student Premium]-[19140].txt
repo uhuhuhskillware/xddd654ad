@@ -1,6 +1,0 @@
-.spotify.com	TRUE	/	TRUE	13419502270625897	sp_m	ar
-accounts.spotify.com	FALSE	/	TRUE	13422585143253983	__Host-device_id	AQCVYK_jJMi_FmOvPcAypuNvlQaQwxmZOLD012JcHWjIOMswGK-6SHQIcgznDCq88O98f8L7hfXVbEc_G26t07arIQ9JIfY13Z4
-.spotify.com	TRUE	/	TRUE	13422585417757906	sp_dc	AQBqEmRMllAPwtz0tsvI7-oNNeyTnEWEdeK-nDZQhBdXow9COIL8BDr1OtkZGFGxpzeU2PTcbtMnYjHyO5mC0hsNDKuN19EOUI_4bfesNMsxqt4qxZyNi1KLG_ny61MQ36OxUVmtJDery9SqmmInjvqr12_E2tdCN_cYube4fKrTKyEJbx8KrL7dOGJ-pQpdWTFEkzwfhaj0OZ5E7w
-.spotify.com	TRUE	/	TRUE	13422585417758185	sp_key	d71bece8-f8bb-40ed-a8be-fb88e060f483
-.spotify.com	TRUE	/	TRUE	13407216123975332	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3Dc3c8f5beb02b4ce9aa0dd6abad1b066d%26device%3Ddesktop
-.spotify.com	TRUE	/	TRUE	13422699798428070	sp_t	c3c8f5beb02b4ce9aa0dd6abad1b066d

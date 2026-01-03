@@ -1,8 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1794826021892	__Host-device_id	AQBJ1Mw_yuPJWFQPNZsYvwzzA36GG_AiRtKarcxo6V5VmInf-M_fGAj4lWguXmaRbgLwjTs3pNgGa4soJXOwVv7J04vjyDcXS4w
-.spotify.com	TRUE	/	FALSE	1791807263050	sp_t	1e6cf81e-f209-4061-9b41-020decf8d465
-.spotify.com	TRUE	/	FALSE	1760352431776	sp_new	1
-.spotify.com	TRUE	/	TRUE	1760352431776	sp_landing	https%3A%2F%2Fchallenge.spotify.com%2Fc%2F7473f9e8-e303-4071-bf28-923a56125c65-1%2Fd2bccd7a-6835-495b-a34a-92203c89693e%2Femail
-.spotify.com	TRUE	/	TRUE	1760352431776	sp_landingref	https%3A%2F%2Faccounts.spotify.com%2F
-accounts.spotify.com	FALSE	/	TRUE	1760274859675	__Host-sp_csrf_sid	d78367a7f3bd223613d3e62d74a1e7c692ed9b31b12681ca36e2b63ab58d5afb
-.spotify.com	TRUE	/	TRUE	1791807259675	sp_dc	AQAYuILzwMM60arfyPFNp-ea79FlGU30X9HkGnD6h5iMaTZJAsho7jy2Og8ccB5Z7oL8pukw-AS-_JOrl2dMEz2f4KpIz6xiHBXvF63k8Qp_mwc6M_fKbOKQI648-YkSlt12NRkd9D-VIoJC_JowRY8N9gzwrnZE48eeWxCvh8JJCh-PZ0C9VhLIjmHxWcQ-_RECGvHHVc3TYQBYfw
-.spotify.com	TRUE	/	FALSE	1791807259675	sp_key	f76f8105-fee8-424f-95ed-c912f7320168

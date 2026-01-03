@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1789603840	__Host-device_id	AQCau7elDvpz0nnFX0ZnUK7ys0nowrnIIYc_AnqCtlNm_8R_jPpgQ1IX4Aeidb3-LVzZ231nU3acDDjzxJxvBq8QvWIBFzQRhD0
-.spotify.com	TRUE	/	TRUE	1786579926	sp_dc	AQBxH7sgBS6d0EAprm1_7nJKcb2KJ2wetsUDhH2Z4TwJ4N979EcZcJOZTKwChNpDEiU2g8n3weMqCM6m18fkhm2FDEvHqPTGSC4-qxyp8R79VdNHJAxCYmB3b8XQphhunri-ZcZzzgULDyuhAMmf6wR8wt2JhNjyu_6L07Sml7z1XD6-tprK7Lollh4vcnxDHMve3OZeX4Y3o62BVg
-.spotify.com	TRUE	/	TRUE	1786579926	sp_key	9764cca1-9b11-4179-b396-9a8ab0b5576f
-.spotify.com	TRUE	/	FALSE	1786737419	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+14+2025+15%3A56%3A59+GMT-0400+(Eastern+Daylight+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false
-.spotify.com	TRUE	/	FALSE	1789761420	_ga	GA1.2.2058947400.1755043578
-.spotify.com	TRUE	/	FALSE	1789761421	_ga_BMC5VGR8YS	GS2.2.s1755201420$o2$g0$t1755201420$j60$l0$h0
-.spotify.com	TRUE	/	FALSE	1789761420	_ga_ZWG1NSHWD8	GS2.1.s1755201419$o2$g0$t1755201420$j59$l0$h0
-.spotify.com	TRUE	/	TRUE	1786737420	sp_adid	dd2a63a5-97dc-4262-b5ef-54d81a37fac8
-.spotify.com	TRUE	/	TRUE	1786737413	sp_t	0e7ef7a6bc19592617e1a8ee1712ddaf

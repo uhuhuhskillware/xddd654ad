@@ -1,6 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1795885128	__Host-device_id	AQDQOcYb2WmHwqPLVHqmBYvREY9DWFm4ToBS6kJe5pN9Gf6GRENzRvuEJgXrwTyE3nmoRn3PmP8lBT2u9wiCsb_bJ_Dn16DDTPo
-.spotify.com	TRUE	/	TRUE	1795885127	sp_m	at
-.spotify.com	TRUE	/	TRUE	1793037626	sp_dc	AQCtC5Njvg7xnSX0hEhejBHSxu7biEvQuJB8aohEHgijdH1tk6_CzJG0HzYqmQljGYOuu0eFHvuld-k_3joVAsKveDYqgEDQcaZJE3RAewe07Sy9RSkTMXvCmdTDJ3Y9ZA3F4NUJQoBpPCAENfXCQPM7Cxy-C1CnA1OU7CP0KOq-RCBG0O5R1PbeDLjX7_Yrwvvn34rXxIkYRGExiCk
-.spotify.com	TRUE	/	TRUE	1793037626	sp_key	b36ded6e-2a71-40d6-921f-c7017cfb98b1
-.spotify.com	TRUE	/	FALSE	1793530435	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+01+2025+11%3A53%3A55+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78777395-09e2-4a20-93a2-085406644ed7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&AwaitingReconsent=false
-.spotify.com	TRUE	/	TRUE	1794743487	sp_t	ae42bccc-bed1-4f36-85ac-8f9e0500a48f

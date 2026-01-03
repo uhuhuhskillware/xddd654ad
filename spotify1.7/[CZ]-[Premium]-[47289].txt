@@ -1,4 +1,0 @@
-.spotify.com	TRUE	/	TRUE	1788551885	sp_t	b97213e2f364c8b79d1f89d602a3e2e1
-accounts.spotify.com	FALSE	/	TRUE	1796305433	__Host-device_id	AQAIW7RHJWlAEOopi5iDNH0aumRuT5UbGc4ZNexYTj9tZ7_N3rgpxJiEJRx-6hlNv6CI3I8gg5rms5CrsNhgpErA_vQWnFI5ur8
-.spotify.com	TRUE	/	TRUE	1793281478	sp_dc	AQAlrH3MWJOdQKAYqUCsg_VkPofTqe0WBiewqux3aqiUNv-NDh42p3SH5J1v2ds_muyI_-Y8O9gn26SsV7ojr1YNEGizqdYnMq1G5TwmqqL_SrdtAum1YnZ3fjQTXtEZ1MwaD0mp4p7lXGzadKAyp87VTBJ2wjdwI0lHoFLzZ0u31b73mRhnPdBmxFKUf9T0ruDzM1NnIY5hp5pVPfM
-.spotify.com	TRUE	/	TRUE	1793281478	sp_key	5a655dc7-b997-409c-b81c-5bb97784c6aa

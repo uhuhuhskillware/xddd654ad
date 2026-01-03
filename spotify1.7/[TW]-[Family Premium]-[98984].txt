@@ -1,3 +1,0 @@
-.spotify.com	TRUE	/	TRUE	1784213669	sp_dc	AQD1mlxoE94M6Xt-vRU_lDamGyU3_p7Vm75G6HJmR_2TTJb2iwX9pNeXFnmrZfQo_FWzni2-buO6ngHQxLN5vX_hSS3An7bRkR9-03MJF6eGR9Oy5bJ0PwEJ36ukgzFLjbSgue9-fsgQQAmclpSiLoryiaqLgeRY344DQVRqZSdhT1y2QxZMbdiMuabTCUoOWOChctl_PjBxLTloQwY
-.spotify.com	TRUE	/	TRUE	1784213669	sp_key	c3bbcae9-202a-4fad-bbce-02ce79be8af1
-.spotify.com	TRUE	/	TRUE	1784213673	sp_t	066c52b9-f1c0-427a-be56-43137451d3e8

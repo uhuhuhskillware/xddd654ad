@@ -1,6 +1,0 @@
-accounts.spotify.com	false	/	FALSE	1792480750	__Host-device_id	AQBEivfwZMi9vG4GwjU3NPX45y2UUt0lNiQeUcsWPhFDBnKFcVgpPr0yx6JO42OeN5mYnlaDE901c0EzNF9JsTJ8a31gwsMs1Cw
-accounts.spotify.com	false	/	FALSE	1757924362	__Host-sp_csrf_sid	cdf5a88aaa43561b4e2bf21274f5410c30ce79c78bd2c800e91f5a2fbf96ea1d
-.spotify.com	true	/	FALSE	1789456762	sp_dc	AQCxidDLT1XWkS4IBLgxjOCy2bB4QVJVnslsO9Hx1thV0q42CP8_reprx8bBrnHcmdTe7z0YjCyaVDPsf9Gv4lqjDWx8UQjk32x_PAoImry3q1r3JR5IsYj80p0e97HrzqG0-bxnzWn-Q9J3ECh2SPo_4Jvi62BpTlR8YDhOX2jDbUjYvcmkhWzJa8eWyiccTEGda937PMTW22sRgs0RpS8oVdr-0AIq_JPX0qX00WFdSN0g5oc84eTOnc7rRiNl5VWT2R8iG6kp6A
-.spotify.com	true	/	FALSE	1789456762	sp_key	e2a69b38-21e1-413c-ac80-bc9fea39ab2f
-.spotify.com	true	/	FALSE	1758007166	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3D4c8acabe49075bfc6c1d6b9d278c473a%26device%3Ddesktop
-.spotify.com	true	/	FALSE	1789456766	sp_t	4c8acabe49075bfc6c1d6b9d278c473a

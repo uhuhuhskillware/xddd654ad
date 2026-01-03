@@ -1,9 +1,0 @@
-.spotify.com	TRUE	/	TRUE	1788952088000	sp_m	de-en
-accounts.spotify.com	FALSE	/	TRUE	1788963108000	__Host-device_id	AQAIf1-3p2quVvVgV11AdLDkvcEhmDeX9zgUvVaUfcHH5o_7CWy8owEfxaPLiQujK9mav-Bsco3Ttsm1KwoDFvTreyUIzSMQ8Ok
-.spotify.com	TRUE	/	TRUE	1785939975000	sp_dc	AQCDBCIG4GoCu0hYT7E5c9VsFU92GPoTyZTPCT5fIS76CJKymJ3QJUk9HcJ1GHSyooh0tGMqhVHbYYXqhZBPdMEJGmB02dvRQk78r3lWTC1rhc43A6AEHji3t6HfHN4gK6ZQ9YKmz9hiGEqwnyO2e05B0fNvfbO_T9TDnBhHZd_33Z1JlUg085A07eWdCJdhX-X862OAqIXCEMF1sro
-.spotify.com	TRUE	/	TRUE	1785939975000	sp_key	b61300a0-5cd2-4e4a-99bc-69a6aac3e536
-.spotify.com	TRUE	/	TRUE	1792889618515	sp_t	298e5086a2648a4e9cd42451bee64ccf
-.spotify.com	TRUE	/	TRUE	1761440018515	sp_landing	https%3A%2F%2Fdiscord.com%2F%3Fsp_cid%3D298e5086a2648a4e9cd42451bee64ccf%26device%3Ddesktop
-.spotify.com	TRUE	/	TRUE	1794932903937	sp_t	c9a5db1f48a80f04577a768ca1688ef5
-.spotify.com	TRUE	/	TRUE	1763483303937	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F7JQsclDBEWMaPTlcL1M0aU%3Fsp_cid%3Dc9a5db1f48a80f04577a768ca1688ef5%26device%3Ddesktop
-.spotify.com	TRUE	/	FALSE	1794932906000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+17+2025+11%3A28%3A26+GMT-0500+(Eastern+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ci00%3A1%2CBG170%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false

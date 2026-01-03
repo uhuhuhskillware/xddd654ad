@@ -1,8 +1,0 @@
-accounts.spotify.com	false	/	FALSE	1775753513	__Host-device_id	AQCVpUELhfu8fXOLzUX6vA3cFyJ3q2EIlviVsMAO734ZIM3WRYrfiq1l06wFFs_DScvJUGv7haccbFYbaB9_LbdL9mZ1kDseXxE
-.spotify.com	true	/	FALSE	1775753559	sp_dc	AQB_dpjMTRq5lVmQq4Voi8zNJ4IaxmMJxPvr7cupXOSZ6zRkpOARAj5TknyhOZpHJf9Vo3qWJDw1wV9Bt1GPezOUKYn4kiNv0X_TxpNGNebMLlyOjuacQgU6r7FMkiFQWSEySiLiOH5XVtxU1PpC_MNjk6422ODkIUGE-R8r2daIzD9pWPZxQzLbLDY-TnCFGWa9Yc-EQJxq0LmkaB4
-.spotify.com	true	/	FALSE	1765385573	sp_gaid	0088fc633cdc3a4ce478226bb49df05066f9266db16221228ef5de
-.spotify.com	true	/	FALSE	1775753559	sp_key	109c428d-2e7d-47af-b01b-3420b0cd65b0
-.spotify.com	true	/	FALSE	1775753573	sp_m	gr
-.spotify.com	true	/	FALSE	1765385588	sp_last_utm	%7B%22utm_campaign%22%3A%22drm_error%22%2C%22utm_medium%22%3A%22web%22%2C%22utm_source%22%3A%22open%22%7D
-.spotify.com	true	/	FALSE	1763285025	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D73787d36-5161-44fa-a203-532f26a61976%26device%3Ddesktop
-.spotify.com	true	/	FALSE	1778788406	sp_t	73787d36-5161-44fa-a203-532f26a61976

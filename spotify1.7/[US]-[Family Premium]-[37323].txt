@@ -1,8 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1791826226935	__Host-device_id	AQDyUKTV25xliJYShn5mwZAq3lFMzAsDPzDjHkX7ZfWpck5swFbLgTdWOU39ZkB0XamAMsD_OywOwXZOko_50oKSggg1IZmxWZM
-.spotify.com	TRUE	/	TRUE	1788802275490	sp_dc	AQBB2onh2p1Hogp8eK3PkLRL5_61qUSys56_XZZiu8oWY_VV2fTkpo18KKlF33du49QRXyt2yn8O11DGUMeg8vPkbhOzqVqoLYlwew-hFsy25rFW28hucKvOvoy_B5zszxBw5E2YhqvN2JHU_89XVOe5yq8zQDvg4T3KI7HzgWmraN17g0w2PqmwoT34EAGHH2g1ZMhvfpgLRK0lDg
-.spotify.com	TRUE	/	TRUE	1788802275490	sp_key	fa864bc9-cdd6-456c-b9a1-c799df5fcd59
-.spotify.com	TRUE	/	TRUE	1760827726156	sp_landing	https%3A%2F%2Fbravewords.com%2F%3Fsp_cid%3Da3326508327f80dde2f1d2c9f19f940a%26device%3Ddesktop
-.spotify.com	TRUE	/	TRUE	1792278742541	sp_t	a3326508327f80dde2f1d2c9f19f940a
-.spotify.com	TRUE	/	TRUE	1761514659859	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0JcJGSVQISN0lfGcRf54YU%3Fsp_cid%3Dc137ffb990c809b90c5c04a26867dc5a%26device%3Ddesktop%26utm_source%3Dembed_player_p%26utm_medium%3Ddesktop
-.spotify.com	TRUE	/	TRUE	1792965716440	sp_t	c137ffb990c809b90c5c04a26867dc5a
-.spotify.com	TRUE	/	FALSE	1792965718000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+25+2025+17%3A01%3A58+GMT-0500+(Central+Daylight+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ci00%3A1%2CBG170%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
